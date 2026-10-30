@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300mm" height="151.35mm" viewBox="0 0 1774 895">
+<title>Fig. 3A: lipid alterations in AAD vs CTRL</title>
+<desc>White-background lipid pathway map. Pie sectors show proportions of significantly lower and higher features within each class, with nonsignificant features excluded.</desc>
+<rect width="1774" height="895" fill="#FFFFFF" />
+<path d="M128 215 L210 215 L210 217 L128 217 Z M198 209 L212 216 L198 223 Z " fill="#111111" />
+<path d="M366 215 L438 215 L438 217 L366 217 Z M426 209 L440 216 L426 223 Z " fill="#111111" />
+<path d="M815 251 L863 251 L863 253 L815 253 Z M851 245 L865 252 L851 259 Z " fill="#111111" />
+<path d="M943 251 L993 251 L993 253 L943 253 Z M981 245 L995 252 L981 259 Z " fill="#111111" />
+<path d="M1060 251 L1138 251 L1138 253 L1060 253 Z M1126 245 L1140 252 L1126 259 Z " fill="#111111" />
+<path d="M1200.837 274.5476 L1164.837 329.5476 L1163.163 328.4523 L1199.163 273.4523 Z M1176.4288207145921 322.79319602013027 L1162.9046816506113 330.6734030337884 L1164.7149994780732 315.12596757440883 Z " fill="#111111" />
+<path d="M1232.816 273.4216 L1271.816 328.4216 L1270.184 329.5784 L1231.184 274.5784 Z M1269.7689849098317 315.16220386594097 L1272.156857554616 330.6314657821506 L1258.3487244347778 323.2602067482521 Z " fill="#111111" />
+<path d="M1280 412 L1280 451 L1278 451 L1278 412 Z M1286 439 L1279 453 L1272 439 Z " fill="#111111" />
+<path d="M1244 475 L1300 475 L1300 477 L1244 477 Z M1288 469 L1302 476 L1288 483 Z M1256 483 L1242 476 L1256 469 Z " fill="#111111" />
+<path d="M1014.753 274.6585 L996.0626 296.0184 L975.6883 316.2257 L954.1498 335.7606 L931.11 354.2926 L907.0753 371.9849 L881.709 389.007 L855.3445 405.3596 L827.8093 421.0464 L770.2678 450.5677 L709.3955 478.0853 L645.8668 504.097 L580.3545 528.935 L579.6454 527.0649 L645.1454 502.2316 L645.121 502.2412 L708.621 476.2412 L708.5881 476.2554 L769.4214 448.7554 L769.3768 448.7769 L826.8768 419.2769 L826.8383 419.2978 L854.3383 403.6311 L854.3062 403.6502 L880.6396 387.3168 L880.6094 387.3363 L905.9427 370.3363 L905.9072 370.3613 L929.9072 352.6946 L929.8732 352.7208 L952.8732 334.2208 L952.8281 334.2593 L974.3281 314.7593 L974.2958 314.79 L994.6291 294.6233 L994.5807 294.6748 L1013.247 273.3415 Z M593.6775121139508 530.4342683444371 L578.1225904271661 528.6894441934136 L588.8514027600559 517.2924013346 Z " fill="#111111" />
+<path d="M580.9174 540.0034 L906.9174 513.0034 L907.0825 514.9966 L581.0825 541.9966 Z M894.4631700933894 508.0143591911379 L908.9931755911022 513.8349210400007 L895.6187228133842 521.9665883288532 Z " fill="#111111" />
+<path d="M581.1572 544.0124 L914.1572 597.0124 L913.8428 598.9875 L580.8428 545.9875 Z M903.2494273537708 589.2008416437621 L915.9751396916935 598.3143615725518 L901.0488963459082 603.0268194856161 Z " fill="#111111" />
+<path d="M405 537 L508 537 L508 539 L405 539 Z M496 531 L510 538 L496 545 Z M417 545 L403 538 L417 531 Z " fill="#111111" />
+<path d="M986 509 L1078 509 L1078 511 L986 511 Z M1066 503 L1080 510 L1066 517 Z M998 517 L984 510 L998 503 Z " fill="#111111" />
+<path d="M986 595 L1078 595 L1078 597 L986 597 Z M1066 589 L1080 596 L1066 603 Z M998 603 L984 596 L998 589 Z " fill="#111111" />
+<path d="M1542 292 L1645 292 L1645 294 L1542 294 Z M1633 286 L1647 293 L1633 300 Z M1554 300 L1540 293 L1554 286 Z " fill="#111111" />
+<path d="M1496 349 L1496 415 L1494 415 L1494 349 Z M1502 403 L1495 417 L1488 403 Z " fill="#111111" />
+<path d="M1496 502 L1496 563 L1494 563 L1494 502 Z M1502 551 L1495 565 L1488 551 Z " fill="#111111" />
+<text x="20" y="55" font-family="Arial, sans-serif" font-size="46" font-weight="bold" text-anchor="start" fill="#111111">a</text>
+<text x="887" y="59" font-family="Arial, sans-serif" font-size="45" font-weight="bold" text-anchor="middle" fill="#111111">Lipid alterations in AAD vs CTRL</text>
+<text x="887" y="102" font-family="Arial, sans-serif" font-size="27" font-weight="normal" text-anchor="middle" fill="#111111">Discovery lipidomics: 466 measured features</text>
+<text x="55" y="168" font-family="Arial, sans-serif" font-size="31" font-weight="bold" text-anchor="start" fill="#111111">Fatty-acyl-related lipids</text>
+<text x="635" y="173" font-family="Arial, sans-serif" font-size="31" font-weight="bold" text-anchor="start" fill="#111111">Glycerophospholipids</text>
+<text x="1444" y="180" font-family="Arial, sans-serif" font-size="31" font-weight="bold" text-anchor="start" fill="#111111">Sphingolipids</text>
+<text x="286" y="432" font-family="Arial, sans-serif" font-size="31" font-weight="bold" text-anchor="start" fill="#111111">Acylglycerols</text>
+<text x="95" y="681" font-family="Arial, sans-serif" font-size="31" font-weight="bold" text-anchor="start" fill="#111111">Other annotated classes</text>
+<text x="285" y="225" font-family="Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#111111">Acyl-CoA</text>
+<text x="732" y="262" font-family="Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#111111">Glycerol-3-P</text>
+<text x="904" y="262" font-family="Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#111111">LPA</text>
+<text x="1027" y="262" font-family="Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#111111">PA</text>
+<text x="1213" y="262" font-family="Arial, sans-serif" font-size="26" font-weight="normal" text-anchor="middle" fill="#111111">CDP-DAG</text>
+<text x="953" y="516" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111111">PC</text>
+<circle cx="953" cy="540" r="18" fill="#079AD4" />
+<path d="M 953 540 L 953 522 A 18 18 0 0 1 957.005377 522.451298 Z" fill="#DF5648" />
+<circle cx="953" cy="540" r="18" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="954" y="602" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111111">PE</text>
+<circle cx="954" cy="626" r="18" fill="#079AD4" />
+<path d="M 954 626 L 954 608 A 18 18 0 0 1 971.86876 623.83034 Z" fill="#DF5648" />
+<circle cx="954" cy="626" r="18" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="1121" y="516" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111111">LPC</text>
+<circle cx="1121" cy="540" r="18" fill="#079AD4" />
+<circle cx="1121" cy="540" r="18" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="1122" y="602" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111111">LPE</text>
+<circle cx="1122" cy="626" r="18" fill="#079AD4" />
+<circle cx="1122" cy="626" r="18" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="1156" y="364" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111111">PI</text>
+<circle cx="1156" cy="388" r="18" fill="#DF5648" />
+<circle cx="1156" cy="388" r="18" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="1279" y="362" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111111">PG</text>
+<circle cx="1279" cy="386" r="18" fill="#A3A8AD" />
+<circle cx="1279" cy="386" r="18" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="922" y="705" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111111">dMePE</text>
+<circle cx="922" cy="729" r="18" fill="#079AD4" />
+<circle cx="922" cy="729" r="18" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="1123" y="705" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111111">LdMePE</text>
+<circle cx="1123" cy="729" r="18" fill="#079AD4" />
+<circle cx="1123" cy="729" r="18" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="1215" y="486" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111111">CL</text>
+<circle cx="1215" cy="510" r="18" fill="#079AD4" />
+<path d="M 1215 510 L 1215 492 A 18 18 0 0 1 1227.727922 522.727922 Z" fill="#DF5648" />
+<circle cx="1215" cy="510" r="18" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="1348" y="486" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111111">MLCL</text>
+<circle cx="1348" cy="510" r="18" fill="#079AD4" />
+<circle cx="1348" cy="510" r="18" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="1495" y="296" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111111">Cer</text>
+<circle cx="1495" cy="320" r="18" fill="#079AD4" />
+<path d="M 1495 320 L 1495 302 A 18 18 0 0 1 1511.830292 326.382888 Z" fill="#DF5648" />
+<circle cx="1495" cy="320" r="18" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="1681" y="296" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111111">SM</text>
+<circle cx="1681" cy="320" r="18" fill="#079AD4" />
+<circle cx="1681" cy="320" r="18" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="1495" y="451" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111111">Hex1Cer</text>
+<circle cx="1495" cy="475" r="18" fill="#079AD4" />
+<circle cx="1495" cy="475" r="18" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="1495" y="598" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111111">Hex2Cer</text>
+<circle cx="1495" cy="622" r="18" fill="#A3A8AD" />
+<circle cx="1495" cy="622" r="18" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="88" y="214" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111111">FA</text>
+<circle cx="88" cy="238" r="18" fill="#079AD4" />
+<circle cx="88" cy="238" r="18" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="492" y="215" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111111">AcCa</text>
+<circle cx="492" cy="239" r="18" fill="#079AD4" />
+<path d="M 492 239 L 492 221 A 18 18 0 0 1 508.373376 231.52253 Z" fill="#DF5648" />
+<circle cx="492" cy="239" r="18" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="363" y="544" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111111">TG</text>
+<circle cx="363" cy="568" r="18" fill="#079AD4" />
+<path d="M 363 568 L 363 550 A 18 18 0 1 1 345.880983 562.437694 Z" fill="#DF5648" />
+<circle cx="363" cy="568" r="18" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="546" y="544" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111111">DG</text>
+<circle cx="546" cy="568" r="18" fill="#DF5648" />
+<circle cx="546" cy="568" r="18" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="207" y="724" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111111">ChE</text>
+<circle cx="207" cy="748" r="18" fill="#A3A8AD" />
+<circle cx="207" cy="748" r="18" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="400" y="724" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111111">Co</text>
+<circle cx="400" cy="748" r="18" fill="#079AD4" />
+<circle cx="400" cy="748" r="18" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="110" y="314" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111111">OAHFA</text>
+<circle cx="110" cy="338" r="18" fill="#A3A8AD" />
+<circle cx="110" cy="338" r="18" fill="none" stroke="#111111" stroke-width="1.7" />
+<rect x="170" y="789" width="1440" height="53" rx="7" fill="#FFFFFF" stroke="#111111" stroke-width="1.5" />
+<circle cx="210" cy="815" r="17" fill="#079AD4" />
+<circle cx="210" cy="815" r="17" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="240" y="823" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#111111">Decreased species</text>
+<circle cx="470" cy="815" r="17" fill="#DF5648" />
+<circle cx="470" cy="815" r="17" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="500" y="823" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#111111">Increased species</text>
+<circle cx="739" cy="815" r="17" fill="#079AD4" />
+<path d="M 739 815 L 739 798 A 17 17 0 0 1 756 815 Z" fill="#DF5648" />
+<circle cx="739" cy="815" r="17" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="769" y="823" font-family="Arial, sans-serif" font-size="18.9" font-weight="normal" text-anchor="start" fill="#111111">Proportions among significant species</text>
+<circle cx="1317" cy="815" r="17" fill="#A3A8AD" />
+<circle cx="1317" cy="815" r="17" fill="none" stroke="#111111" stroke-width="1.7" />
+<text x="1347" y="823" font-family="Arial, sans-serif" font-size="21" font-weight="normal" text-anchor="start" fill="#111111">No significant species</text>
+<text x="887" y="866" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#111111">Sector areas: proportions of significantly altered species (global FDR &lt; 0.05); nonsignificant species excluded.</text>
+<text x="887" y="889" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#111111">Arrows indicate biochemical relationships, not measured flux.</text>
+</svg>
