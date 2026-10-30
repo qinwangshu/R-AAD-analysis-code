@@ -1,0 +1,762 @@
+﻿feature,AAD_specific,AAD_vs_HP,AAD_vs_AMI,metabolomics_id,lipidomics_id
+(2S)-6-Amino-2-formamidohexanamide,0,1,0,P001,
+(R)-3-Hydroxy-hexadecanoic acid,0,1,0,N002,
+(R)-3-hydroxybutyrylcarnitine,0,1,1,P002,
+(Z)-13-Oxo-9-octadecenoic acid,1,1,1,N003,
+"1,5-Anhydrosorbitol",0,0,1,N004,
+1-carboxyethylleucine,0,1,1,N014,
+1-carboxyethylvaline,0,0,1,N016,
+1-Hydroxybenzotriazole,0,1,0,P006,
+10-undecenoate (11:1n1),1,1,0,N006,
+12-HETE,0,0,1,N009,
+13'-Carboxy-gamma-tocopherol,0,1,1,N010,
+"14-Deoxy-11,12-didehydroandrographolide",0,1,0,N012,
+"16,17-didehydropregnenolone",1,0,0,P004,
+16α-OH-DHEA-S,0,0,1,N013,
+2(R)-hydroxyicosanoic acid,1,1,1,N019,
+"2,2'-(Tetradecylimino)diethanol",0,1,1,P008,
+"2,6-dihydroxybenzoic acid",1,1,0,N021,
+2-Aminoadipic acid,0,0,1,N026,
+2-Aminocaprylic acid,0,1,0,P011,
+2-Ethyl-2-hydroxybutyric acid,0,1,0,P012,
+2-Hydroxyisocaproic acid,0,1,0,P013,
+2-methoxyresorcinol sulfate,0,1,0,N030,
+2-Naphthalenesulfonic acid,0,1,1,N032,
+2-naphthol sulfate,1,0,1,N033,
+2-O-methylascorbic acid,0,1,0,N034,
+2-Oxoglutaric Acid,0,0,1,N035,
+2-Piperidinone,0,1,1,P016,
+21-hydroxypregnenolone disulfate,0,1,0,N022,
+21-hydroxypregnenolone monosulfate (1),0,1,1,N023,
+21-hydroxypregnenolone monosulfate (2),0,0,1,N024,
+"23S,25-dihydroxyvitamin D3",1,1,1,N025,
+3-(4-Hydroxyphenyl)lactate,1,1,0,P017,
+3-acetylphenol sulfate,1,0,0,N036,
+"3-bromo-5-chloro-2,6-dihydroxybenzoic acid",0,1,0,N038,
+3-Dehydroteasterone,1,1,0,P019,
+3-Formylindole,1,1,0,P020,
+3-hydroxydodecanedioate,0,1,0,N044,
+3-hydroxylaurate,0,1,1,N046,
+3-hydroxysebacate,0,0,1,N048,
+3-Indoleacrylic acid,1,1,0,P022,
+3-Methylcrotonylglycine,0,1,0,P023,
+3-methylcytidine,1,1,0,P024,
+3-Oxododecanoate,1,1,1,N054,
+3-Oxotetradecanoate,1,1,1,N057,
+3-phenyllactic acid,0,1,0,N058,
+3-phenylpropionate (hydrocinnamate),1,0,0,N059,
+3-Phosphoglyceric acid,0,0,1,N060,
+3S_2349_Tetrahydro_1h_pyrido_34b_indole_carboxylic_acid,1,1,1,P027,
+4-Aminobutyric acid,0,0,1,P028,
+4-hydroxybenzaldehyde,1,1,1,P029,
+4-Hydroxyphenyllactic acid,0,1,0,N069,
+4-Hydroxyproline,0,1,0,P031,
+4-Vinylcyclohexene,0,1,0,P036,
+4-vinylguaiacol sulfate,1,1,1,N072,
+4-vinylphenol sulfate,1,1,1,N073,
+5'-Deoxyadenosine,0,0,1,N081,
+5-Glutamyl-taurine,0,0,1,P041,
+5a-Dihydrotestosterone sulfate,1,0,1,N076,
+"5alpha-Androstan-3beta,17alpha-diol disulfate",0,0,1,N078,
+7-alpha-hydroxy-3-oxo-4-cholestenoate,1,1,1,P048,
+7-Methylxanthine,0,1,1,N085,
+8-ETE,0,0,1,N087,
+8-Hydroxyquinoline,1,1,0,P050,
+9-Hode,0,1,0,N090,
+AcCa(12:0),1,1,1,,P001
+AcCa(13:0),1,0,1,,P004
+AcCa(13:1),1,0,1,,P005
+AcCa(14:1),1,0,1,,P007
+AcCa(14:2),1,0,1,,P008
+AcCa(14:3),1,1,1,,P009
+AcCa(16:0),0,1,1,,P010
+AcCa(16:1),0,1,1,,P011
+AcCa(16:2),1,0,1,,P012
+AcCa(18:0),0,1,1,,P013
+AcCa(18:1),0,1,1,,P014
+AcCa(18:2),0,0,1,,P015
+AcCa(20:0),0,1,1,,P016
+AcCa(20:1),0,1,1,,P017
+AcCa(24:0),0,1,1,,P019
+Acetolein,0,1,1,P051,
+Aconitic acid,0,1,0,N092,
+Adenine,0,1,0,P054,
+Adenosine,0,1,1,N094,
+ADENOSINE 5'-MONOPHOSPHATE,0,1,0,P055,
+Adenosine monophosphate,0,1,0,P056,
+AGMATINE,0,0,1,P058,
+Ala,0,1,0,P059,
+ALLOTHREONINE,0,1,0,N095,
+Alpha-tocopherol,0,0,1,P061,
+"Androstenediol (3beta,17beta) disulfate (1)",0,0,1,N098,
+"Androstenediol (3beta,17beta) disulfate (2)",0,0,1,N099,
+Androsterone sulfate,0,0,1,N101,
+Arginine,0,1,1,P065,
+Asp-Phe,0,1,1,P069,
+Asparagine,0,1,0,P066,
+Aspartic acid,0,1,1,N104,
+Aspartyl-Glutamic Acid,0,0,1,N105,
+Aspartyllysine,0,1,1,P068,
+Azelaic acid,0,0,1,N106,
+Bis(2-ethylhexyl)-phthalate,0,1,1,P072,
+C-glycosyltryptophan,0,0,1,N111,
+Carnitine C10:0,0,0,1,P078,
+Carnitine C10:0-OH,0,0,1,P079,
+Carnitine C10:1,0,0,1,P080,
+Carnitine C10:2,0,0,1,P081,
+Carnitine C10:3-2,0,0,1,P083,
+Carnitine C11:0,1,1,1,P084,
+Carnitine C12:0,1,0,1,P086,
+Carnitine C12:0-OH,0,0,1,P087,
+Carnitine C12:1-OH,0,0,1,P089,
+Carnitine C12:2-1,1,1,1,P090,
+Carnitine C12:2-2,0,0,1,P091,
+Carnitine C14:0,0,0,1,P095,
+Carnitine C14:0-OH,0,0,1,P096,
+Carnitine C14:1-1,0,0,1,P097,
+Carnitine C14:1-OH,0,0,1,P099,
+Carnitine C14:2-1,0,0,1,P100,
+Carnitine C16:0,0,1,1,P102,
+Carnitine C16:1-1,0,0,1,P104,
+Carnitine C16:2,0,0,1,P106,
+Carnitine C18:0,0,1,1,P107,
+Carnitine C18:0-DC,0,1,0,P108,
+Carnitine C18:0-OH,0,1,0,P109,
+Carnitine C18:1-DC,0,1,1,P111,
+Carnitine C18:1-OH,0,0,1,P112,
+Carnitine C18:3,0,0,1,P114,
+Carnitine C20:0,0,1,1,P116,
+Carnitine C20:1,0,0,1,P117,
+Carnitine C22:0,0,1,1,P118,
+Carnitine C24:0,0,0,1,P120,
+Carnitine C26:1,0,0,1,P122,
+Carnitine C2:0,0,0,1,P115,
+Carnitine C3:0,0,0,1,P123,
+Carnitine C5:1,0,1,0,P127,
+Carnitine C8:0,0,0,1,P130,
+Carnitine C8:1,0,0,1,P132,
+Carnitine C9:0,1,0,1,P133,
+CDCA,0,1,0,N110,
+Cepanone,0,0,1,P134,
+Cer(d16:1_24:0),0,1,1,,N001
+Cer(d16:1_24:1),0,1,1,,N002
+Cer(d17:0_24:1),0,1,1,,N003
+Cer(d18:0_26:2),0,0,1,,N006
+Cer(d18:1_16:0),0,0,1,,N007
+Cer(d18:1_18:0),0,1,1,,N008
+Cer(d18:1_20:0),0,1,1,,N010
+Cer(d18:1_21:0),0,1,1,,N011
+Cer(d18:1_22:0),0,1,1,,N012
+Cer(d18:1_23:0),0,1,1,,N013
+Cer(d18:1_24:0),0,1,1,,N014
+Cer(d18:1_24:1),0,0,1,,N015
+Cer(d18:1_24:2),0,1,1,,N016
+Cer(d18:1_25:0),0,0,1,,N017
+Cer(d18:2_16:0),0,0,1,,N018
+Cer(d18:2_20:0),1,1,1,,N020
+Cer(d18:2_22:0),0,1,1,,N021
+Cer(d18:2_23:0),0,1,0,,N022
+Cer(d18:2_24:0),0,1,0,,N023
+Cer(d18:2_24:2),0,1,1,,N024
+Cer(d18:2_25:0),0,1,0,,N025
+Cer(d20:1_24:0),0,0,1,,N027
+Cer(t17:0_23:0),1,1,1,,N029
+Cer(t17:0_23:0+O),1,1,1,,N030
+Cer(t17:0_24:0),1,1,1,,N032
+Cer(t17:0_24:1),1,1,1,,N033
+Cer(t17:0_25:0),1,1,1,,N034
+Cer(t17:0_25:0+O),1,1,1,,N035
+Cer(t17:0_25:1),1,1,1,,N036
+Cer(t17:0_25:2),1,1,0,,N037
+ChE(20:4),0,1,1,,P020
+ChE(20:5),0,1,1,,P021
+ChE(22:6),0,1,1,,P022
+Choline,0,1,1,P138,
+Citric acid,0,1,1,N116,
+Citrulline,0,1,0,P139,
+CL(18:2_16:0_16:0_20:1),0,0,1,,N040
+CL(18:2_16:0_18:1_22:2),0,0,1,,N042
+CL(18:2_18:0_18:1_20:0),0,0,1,,N044
+CL(18:3_18:1_18:2_20:1),0,0,1,,N045
+CL(19:0_18:0_18:0_20:4),0,1,0,,N046
+CL(19:0_18:0_20:4_22:6),0,1,1,,N047
+CL(21:0_16:1_20:1_22:6),0,1,1,,N048
+CL(24:0_18:0_18:1_18:2),0,1,0,,N052
+Co(Q10),0,1,1,,P023
+Co(Q9),0,1,1,,P024
+Coniferan,0,1,1,N118,
+Corticosterone,0,1,0,N119,
+Cortisol,0,1,0,P140,
+Cortolone glucuronide,0,1,0,N122,
+Cyclo(Leu-Pro),1,1,0,P144,
+Cytidine,1,1,0,N125,
+D-Glucose,0,1,1,N130,
+D-glyceric acid,0,0,1,N131,
+DEET,1,1,1,P150,
+DG(18:1_18:1),0,1,0,,P025
+DG(18:1_18:2),0,1,0,,P026
+DG(18:1_20:4),0,1,0,,P027
+DG(18:2_18:2),0,1,1,,P028
+DHEA-S,0,0,1,N132,
+Diethyltoluamide,1,1,0,P156,
+Dihydrosphingosine,0,1,1,P158,
+Dihydroxybutyric Acid,0,1,1,N134,
+Diisooctyl phthalate,0,1,1,P159,
+Dimethylarginine,1,1,1,P160,
+Dioctyl Phthalate,0,1,1,P162,
+DL-2-Aminooctanoic acid,0,1,0,P163,
+dMePE(16:0_20:3),1,1,0,,N054
+dMePE(20:1e_20:4),0,1,1,,N057
+dMePE(20:2e_20:4),1,0,0,,N058
+dMePE(20:2e_22:6),1,0,0,,N059
+Docosahexaenoic acid,0,1,1,P164,
+Docosatetraenoyl Ethanolamide,0,0,1,P165,
+Dodecanedioic acid,1,0,0,N138,
+Eicosanedioic acid,0,1,0,N143,
+Estriol,0,0,1,N147,
+"Ethyl (3R,5Z)-3hydroxy-5-octenoate",0,0,1,N149,
+FA 10:0,0,0,1,N154,N060
+FA 10:0;O,1,1,1,N155,
+FA 10:1,0,1,1,N156,
+FA 12:0,1,1,1,N158,N062
+FA 13:0,1,1,1,,N063
+FA 14:0,0,1,1,N162,N064
+FA 14:1,1,1,1,N163,N065
+FA 14:1; O,1,0,1,,N066
+FA 14:2,1,1,1,N165,
+FA 15:1,1,1,1,N167,N068
+FA 16:0,0,1,1,N169,N069
+FA 16:0; O,1,0,0,,N070
+FA 16:1,0,1,1,N172,N071
+FA 16:2,1,1,1,N173,N073
+FA 16:2; O,1,1,1,N174,N074
+FA 16:3,0,1,1,N175,N075
+FA 16:4,1,1,1,N176,
+FA 17:0,0,0,1,N177,N076
+FA 18:0,0,1,1,N180,N078
+FA 18:0; O,0,1,0,N181,N079
+FA 18:0; O2,1,0,0,N182,
+FA 18:1,0,1,1,N183,N080
+FA 18:1; O,0,1,0,N184,N081
+FA 18:1; O2,0,1,0,,N082
+FA 18:2,0,1,1,N185,N083
+FA 18:2; O,0,1,0,N186,N084
+FA 18:2; O2,0,0,1,N187,N085
+FA 18:3,0,1,1,N188,N086
+FA 18:3; O3,0,1,0,N189,
+FA 18:3;O2,0,0,1,N190,
+FA 18:4,0,1,1,N191,N087
+FA 19:0,0,1,0,N192,N088
+FA 19:1,0,1,1,N193,N089
+FA 20:0,0,1,1,N194,N090
+FA 20:1,0,0,1,N195,N091
+FA 20:1; O2,0,1,1,,N092
+FA 20:2,0,1,1,N196,N093
+FA 20:2; O2,0,1,1,N197,N094
+FA 20:3,0,1,1,N198,N095
+FA 20:4,0,1,1,N199,N096
+FA 20:4; O,0,0,1,,N097
+FA 20:5,1,1,1,N200,N098
+FA 20:5; O2,0,0,1,N201,N099
+FA 20:6,0,0,1,N202,N100
+FA 21:0,0,1,1,N203,N101
+FA 22:0,0,0,1,N206,N102
+FA 22:2,0,0,1,N208,N104
+FA 22:3,0,1,1,,N105
+FA 22:4,0,1,1,,N106
+FA 22:5,0,1,1,N211,N108
+FA 22:6,1,1,1,N212,N109
+FA 23:0,0,1,0,N214,N111
+FA 24:0,1,1,1,N216,N112
+FA 24:1,0,1,1,N217,N113
+FA 24:2,0,1,1,N218,N114
+FA 24:3,0,1,0,,N115
+FA 24:4,0,1,1,,N116
+FA 24:5,0,1,1,,N117
+FA 24:6,0,1,1,N219,
+FA 25:0,1,1,0,N220,N118
+FA 25:1,0,1,0,N221,
+FA 26:0,1,1,1,N222,N119
+FA 26:0; O,1,1,0,N223,
+FA 26:1,0,1,1,N224,N120
+FA 26:2,0,1,0,N226,N122
+FA 26:3,0,1,0,N227,N123
+FA 28:0,1,1,1,,N124
+FA 28:4,0,1,0,N229,
+FAHFA 36:1;O,0,0,1,N239,
+FAHFA 36:2;O,1,1,1,N240,
+FAHFA 36:3;O,1,0,1,N241,
+FAHFA 36:4;O,1,0,0,N242,
+Farnesylacetone,0,1,1,P169,
+Fatty amide(16:0),1,1,1,P170,
+Fatty amide(18:1),1,1,1,P172,
+Gamma-CEHC,1,1,1,N244,
+Gamma-glutamylleucine,0,1,0,N245,
+Gamma-glutamylthreonine,0,1,0,P184,
+GCDCA,1,0,1,P186,
+GDCA,1,0,1,P187,
+GDCS,0,0,1,N252,
+GLCAS,0,0,1,N254,
+Glutamine,0,1,0,P192,
+Glutaminylglutamic acid,0,1,0,P193,
+Gly-Phe,0,1,1,P196,
+GLYCERIC ACID,0,0,1,N260,
+Glycerol 3-phosphate,0,1,0,N261,
+Glycocholenate sulfate,0,0,1,N263,
+Glycolithocholate sulfate,0,0,1,N265,
+GUDCA,0,1,1,P199,
+HDCA,1,1,0,N268,
+Hex1Cer(d18:1_20:0),1,1,1,,N126
+Hex1Cer(d18:1_22:0),1,1,0,,N127
+Hex1Cer(d18:1_23:0),1,0,0,,N128
+Hex1Cer(d18:1_24:0),1,1,0,,N129
+Hex1Cer(d18:1_24:1),1,0,0,,N130
+Hex1Cer(d18:1_24:2),1,0,0,,N131
+Hex1Cer(d24:2_16:0),1,1,0,,N132
+Hex2Cer(d18:1_16:1),0,1,1,,N134
+Hex2Cer(d18:1_24:0),1,1,0,,N135
+Homoserine,0,1,0,P205,
+Hydroxybutyric acid,0,1,1,N274,
+Hydroxymethylglutaric acid,0,1,1,N276,
+Hydroxypregnenolone sulfate,0,1,1,N278,
+Ile-Pro,0,1,0,P209,
+Indole,0,1,0,P211,
+Indole-3-propionic acid,1,0,0,P212,
+Indole-Pyruvic Acid,0,0,1,N287,
+Indolelactate,0,0,1,N285,
+INDOLEPROPIONIC ACID,1,0,0,P216,
+Indolepropionylglycine,0,0,1,N286,
+Indoline,0,1,0,P218,
+Inositol,0,1,1,N289,
+IsoLCA,0,1,0,N290,
+Isooctanoic Acid,0,0,1,N291,
+Isoquinoline,1,0,0,P222,
+Itaconic acid,0,1,0,N292,
+"L,L-Cyclo(leucylprolyl)",1,1,0,P226,
+L-Arginine monohydrochloride,0,1,0,P227,
+L-Methionine,0,0,1,P237,
+L-Theanine,0,1,1,N329,
+L-urobilin,0,1,0,P317,
+Lauryldiethanolamine,1,1,1,P229,
+Lauryldimethylamine Oxide,1,0,1,P230,
+LCA,1,0,0,N296,
+LdMePE(16:0),0,1,1,,N137
+LdMePE(18:0),0,1,1,,N138
+LdMePE(18:2),0,1,1,,N139
+Leu-Leu,1,1,1,P235,
+Leu-phe,0,0,1,N300,
+Leucylalanine,1,1,1,P233,
+Leucylproline,0,1,0,P234,
+Lolitriol,0,1,0,N302,
+LPC (14:1) sn-1,0,1,1,N303,
+LPC (14:1) sn-2,0,1,1,N304,
+LPC (16:0) sn-1,0,1,1,N305,
+LPC (16:0) sn-2,0,1,1,N306,
+LPC (18:0),1,1,1,N307,
+LPC (O-16:1),0,1,1,P238,
+LPC(14:0) sn-1,0,1,0,P240,
+LPC(14:0) sn-2,0,1,0,P241,
+LPC(15:0) sn-1,0,1,0,P242,
+LPC(15:0) sn-2,0,1,0,P243,
+LPC(16:0),0,1,1,,N140
+LPC(16:0) sn-1,0,1,1,P244,
+LPC(16:0) sn-2,0,1,1,P245,
+LPC(16:1),0,1,1,,N141
+LPC(16:1) sn-1,0,1,0,P246,
+LPC(16:1) sn-2,0,1,0,P247,
+LPC(17:0),0,1,1,,N142
+LPC(17:0) sn-1,1,1,1,P248,
+LPC(17:1) sn-1,0,1,0,P250,
+LPC(17:1) sn-2,0,1,0,P251,
+LPC(18:0),0,1,1,,N143
+LPC(18:0) sn-1,0,1,1,P252,
+LPC(18:0) sn-2,0,1,1,P253,
+LPC(18:1),0,1,1,,N144
+LPC(18:1) sn-1,0,1,0,P254,
+LPC(18:1) sn-2,0,1,1,P255,
+LPC(18:2),0,1,1,,N145
+LPC(18:2) sn-1,0,1,0,P256,
+LPC(18:2) sn-2,0,1,0,P257,
+LPC(18:3) sn-1,1,1,0,P258,
+LPC(18:3) sn-2,0,1,0,P259,
+LPC(20:0) sn-1,0,1,1,P260,
+LPC(20:0) sn-2,0,1,1,P261,
+LPC(20:1) sn-1,0,1,1,P262,
+LPC(20:1) sn-2,0,1,1,P263,
+LPC(20:2) sn-1,0,1,0,P264,
+LPC(20:4),0,1,1,,N146
+LPC(20:4) sn-2,0,1,0,P269,
+LPC(20:5),0,1,1,,N147
+LPC(22:0) sn-1,0,1,0,P272,
+LPC(22:1) sn-1,0,1,1,P274,
+LPC(22:1) sn-2,1,1,1,P275,
+LPC(22:4) sn-1,1,1,0,P276,
+LPC(22:4) sn-2,1,1,0,P277,
+LPC(22:5) sn-1,0,1,0,P278,
+LPC(22:6),0,1,1,,N148
+LPC(24:0),0,1,0,,N149
+LPC(24:0) sn-1,0,1,1,P282,
+LPC(24:0) sn-2,0,0,1,P283,
+LPC(O-16:0),0,1,1,P284,
+LPC(O-18:0),0,1,1,P285,
+LPC(O-18:1),0,1,1,P286,
+LPE (20:3) sn-1,0,1,1,N308,
+LPE (20:3) sn-2,0,1,1,N309,
+LPE (20:4) sn-1,0,1,1,N310,
+LPE (20:4) sn-2,0,1,1,N311,
+LPE (22:0) sn-1,1,1,1,N314,
+LPE (22:5) sn-1,0,1,1,N316,
+LPE(16:0),0,1,1,,N151
+LPE(16:0) sn-1,0,1,1,N320,
+LPE(16:0) sn-2,0,1,1,N321,
+LPE(16:1) sn-1,0,1,0,P289,
+LPE(16:1e),1,1,1,N322,
+LPE(18:0),0,1,1,,N152
+LPE(18:0) sn-1,0,1,1,P291,
+LPE(18:0) sn-2,0,1,1,P292,
+LPE(18:1),0,1,1,,N153
+LPE(18:1) sn-1,1,1,1,P293,
+LPE(18:1) sn-2,0,1,1,N326,
+LPE(18:2),0,1,1,,N154
+LPE(18:2) sn-1,1,1,1,P295,
+LPE(18:2) sn-2,1,1,1,P296,
+LPE(20:1) sn-1,1,1,1,P297,
+LPE(20:2) sn-1,1,1,1,P299,
+LPE(20:3) sn-1,0,1,0,P301,
+LPE(20:3) sn-2,0,1,0,P302,
+LPE(20:4),0,1,1,,N155
+LPE(20:4) sn-1,0,1,0,P303,
+LPE(20:4) sn-2,1,1,0,P304,
+LPE(22:4) sn-1,0,1,1,P307,
+LPE(22:5) sn-1,0,1,0,P309,
+LPE(22:6),0,1,1,,N156
+LPE(P-16:0),0,1,1,P313,
+LPE(P-18:0),0,1,1,P314,
+LPE(P-18:1),0,1,0,P315,
+Lys,0,1,0,P318,
+Malic Acid,0,1,0,N330,
+Maslinic acid,0,1,0,P320,
+Methionine,0,0,1,P321,
+Methyl indole-3-acetate,1,0,0,P323,
+Metoprolol acid,1,1,0,P324,
+MLCL(18:2_14:0_20:4),0,1,1,,N157
+MLCL(18:4_20:4_22:6),0,1,1,,N158
+MLCL(20:5_16:1_20:4),0,1,1,,N159
+N-(1-Deoxy-1-fructosyl)tyrosine,0,0,1,N335,
+N-Acetyl Neuraminic Acid,0,1,0,N337,
+N-acetyl-2-aminooctanoate,1,1,0,N338,
+N-benzylformamide,1,1,1,P335,
+N-carbamoyl-DL-aspartic acid,0,1,1,P337,
+N-formyl-4-Aminoantipyrine,0,0,1,N345,
+N-Fructosyl phenylalanine,0,0,1,P339,
+N-linoleoyl glycine,1,1,1,N348,
+N-linoleoyl taurine,0,0,1,N350,
+N-Methylproline,0,0,1,N351,
+N-palmitoylglycine,0,1,1,N355,
+N-palmitoylserine,1,1,0,N356,
+N2-Methylisoeugenolyl-deoxyguanosine,0,1,0,P329,
+Nicotyrine,1,1,1,P344,
+OAHFA(18:0_20:2),0,0,1,,N160
+OAHFA(18:1_18:0),0,0,1,,N161
+OAHFA(18:2_18:1),0,0,1,,N163
+Octadecanedioate (C18),0,0,1,N358,
+OEA,0,0,1,P351,
+Oleamide,0,0,1,N359,
+Ornithine,0,0,1,N360,
+Pantothenic acid,0,0,1,N363,
+PC (38:9),1,1,0,P354,
+PC (O-34:2),0,1,1,P355,
+PC (O-36:6),1,1,0,P356,
+PC(14:0_18:2),0,1,0,,N164
+PC(14:0_20:4),0,1,0,,N165
+PC(15:0_20:4),0,1,0,,N168
+PC(16:0_16:0),0,0,1,,N169
+PC(16:0_18:3),0,1,0,,N173
+PC(16:0_20:3),1,1,0,,N174
+PC(16:0_22:4),0,1,0,,N177
+PC(16:0_22:5),0,1,0,,N178
+PC(16:0e_20:4),0,1,1,,N181
+PC(16:0e_22:5),0,1,0,,N182
+PC(16:1_18:2),0,1,0,,N183
+PC(16:1e_18:1),0,1,0,,N184
+PC(16:1e_18:2),0,1,1,,N185
+PC(16:1e_20:4),0,1,0,,N186
+PC(17:0_20:4),0,1,0,,N189
+PC(18:0_16:0),0,1,1,,N192
+PC(18:0_18:1),0,1,0,,N193
+PC(18:0_20:1),0,1,0,,N195
+PC(18:0_20:2),0,1,0,,N196
+PC(18:0_20:3),0,1,0,,N197
+PC(18:0_20:4),0,1,0,,N198
+PC(18:0_22:4),0,1,0,,N199
+PC(18:0_22:5),0,1,0,,N200
+PC(18:0e_20:4),0,1,0,,N202
+PC(18:0e_22:5),0,1,0,,N204
+PC(18:0e_22:6),1,1,0,,N205
+PC(18:1_20:4),0,1,0,,N207
+PC(18:1_22:6),0,1,0,,N208
+PC(18:1e_16:0),0,1,0,,N209
+PC(18:1e_18:1),1,1,0,,N210
+PC(18:1e_18:2),0,1,1,,N211
+PC(18:1e_20:4),0,1,0,,N212
+PC(18:1e_22:6),1,0,0,,N213
+PC(18:2_18:2),0,1,0,,N214
+PC(18:2e_20:4),0,1,0,,N215
+PC(19:0_18:2),0,1,0,,N216
+PC(20:0e_20:4),0,1,0,,N217
+PC(20:0e_22:5),0,1,0,,N218
+PC(20:1e_20:4),0,1,0,,N220
+PC(20:2_20:4),1,1,0,,N221
+PC(20:2e_20:4),1,1,0,,N222
+PC(28:0),0,1,1,P357,
+PC(30:0),0,1,0,P358,
+PC(32:0),0,1,1,P360,
+PC(32:1),0,1,0,P361,
+PC(33:2),0,1,0,P363,
+PC(34:0),0,1,1,P364,
+PC(34:1),0,1,0,P365,
+PC(34:2),0,1,0,P366,
+PC(34:3),0,1,0,P367,
+PC(34:4),0,1,0,P368,
+PC(35:2),1,0,0,P370,
+PC(35:3),0,1,0,P371,
+PC(35:4),0,1,0,P372,
+PC(36:0),0,1,0,P373,
+PC(36:1),1,1,0,P374,
+PC(36:2),1,1,0,P375,
+PC(36:3),0,1,1,P376,
+PC(36:4),0,1,1,P377,
+PC(37:2),0,1,0,P379,
+PC(37:4),0,1,0,P380,
+PC(38:1),1,1,1,P381,
+PC(38:4),0,1,0,P382,
+PC(38:5),0,1,0,P383,
+PC(38:6),0,1,0,P384,
+PC(40:4),0,1,0,P388,
+PC(40:7),0,1,0,P390,
+PC(40:8),0,1,1,P391,
+PC(O-32:1),1,1,0,P394,
+PC(O-34:0),1,0,0,P395,
+PC(O-34:1),1,0,0,P396,
+PC(O-36:1),1,1,1,P397,
+PC(O-36:2),0,1,1,P398,
+PC(O-38:4),1,1,1,P399,
+PC(O-38:5),0,1,0,P400,
+PC(O-40:6),0,1,0,P402,
+PC(O-42:6),1,0,0,P403,
+PE O-34:2,1,1,1,P404,
+PE O-34:3,0,1,1,P405,
+PE O-38:6,0,1,0,P406,
+PE(16:0_18:2),0,0,1,,N224
+PE(16:0_20:4),0,0,1,,N225
+PE(16:0_22:5),0,1,1,,N227
+PE(16:1e_18:1),0,1,0,,N229
+PE(16:1e_18:2),0,1,1,,N230
+PE(16:1e_20:4),0,1,1,,N232
+PE(16:1e_20:5),1,1,1,,N233
+PE(16:1e_22:5),0,1,0,,N235
+PE(16:1e_22:6),1,1,1,,N236
+PE(18:0_18:2),0,0,1,,N238
+PE(18:1_18:2),0,0,1,,N242
+PE(18:1_20:4),0,1,1,,N243
+PE(18:1_22:6),0,0,1,,N244
+PE(18:1e_18:1),0,1,0,,N245
+PE(18:1e_18:2),0,1,0,,N246
+PE(18:1e_20:4),0,1,1,,N248
+PE(18:1e_22:4),1,1,1,,N249
+PE(18:1e_22:5),1,0,0,,N250
+PE(18:1e_22:6),0,1,0,,N251
+PE(18:2_18:2),0,0,1,,N252
+PE(18:2e_20:4),0,1,0,,N254
+PE(18:2e_22:6),0,1,1,,N255
+PE(18:3e_18:2),0,1,1,,N256
+PE(18:3e_22:6),0,1,1,,N257
+PE(20:1e_18:2),1,1,1,,N258
+PE(20:1e_20:4),0,1,1,,N259
+PE(20:1e_22:6),1,1,1,,N260
+PE(34:2),0,0,1,P408,
+PE(36:3),0,0,1,P409,
+PE(38:5),0,1,1,P413,
+PE(P-16:0/20:4),0,1,1,P415,
+PE(P-16:0/22:6),1,1,1,P416,
+PE(P-18:0/20:4),0,1,1,P417,
+PE(P-36:2),0,1,1,P418,
+Perillyl Acetate,1,1,1,N371,
+PG(16:0_18:1),0,1,1,,N262
+PG(18:0_18:2),0,1,1,,N263
+Phe-Asp,0,1,1,P421,
+Phe-Phe,0,1,1,N380,
+Phe-Pro,0,1,0,P428,
+Phe-Try,1,1,1,N381,
+Phenylalanine,0,1,0,P424,
+Phenylalanylglycine,0,1,1,N377,
+Phenylalanylphenylalanine,0,1,1,P425,
+PHENYLETHANOLAMINE,0,1,0,P426,
+Phenyllactate,0,1,0,N378,
+Phenylpyruvic acid,1,1,1,P427,
+Phomalone,0,0,1,N382,
+Phosphoric acid,0,1,0,N383,
+PI(16:0_16:1),0,1,0,,N264
+PI(16:0_18:1),0,1,0,,N265
+PI(16:0_18:2),0,1,0,,N266
+PI(16:0_20:4),0,1,0,,N267
+PI(16:0_22:6),0,1,0,,N268
+PI(17:0_20:4),0,1,0,,N271
+PI(18:0_18:2),0,1,0,,N272
+PI(18:0_20:4),0,1,0,,N273
+PI(18:1_20:4),0,1,0,,N276
+PI(19:0_20:4),0,1,0,,N277
+Pipecolic acid,0,0,1,P433,
+Piperine,1,0,0,P435,
+Pregnenolone sulfate,0,1,0,N389,
+Pro,0,1,0,P437,
+Proline,0,1,0,N391,
+Proline betaine,1,0,0,P438,
+Pyroglutamic acid,0,1,1,N395,
+Retinol,0,1,1,P444,
+Schidigeragenin C,1,1,1,N397,
+Serine,0,1,0,P447,
+SM(31:1),0,1,0,P453,
+SM(32:1),0,1,1,P455,
+SM(32:2),1,1,0,P456,
+SM(33:1),1,1,1,P458,
+SM(33:2),1,1,0,P459,
+SM(34:2),0,1,1,P462,
+SM(35:2),1,0,0,P464,
+SM(36:3),1,0,1,P467,
+SM(37:2),1,0,0,P468,
+SM(41:1),1,0,1,P476,
+SM(41:2),1,0,0,P477,
+SM(d14:0_18:1),1,1,1,,N278
+SM(d17:1_16:0),0,1,0,,N280
+SM(d18:1_21:0),1,1,0,,N285
+SM(d18:1_22:0),1,0,0,,N287
+SM(d18:1_22:1),1,0,0,,N288
+SM(d18:1_23:2),1,0,0,,N292
+SM(d18:1_24:0),1,1,1,,N293
+SM(d18:2_14:0),0,1,0,,N297
+SM(d18:2_16:0),1,1,1,,N298
+SM(d20:0_18:1),1,1,1,,N304
+SM(d20:0_24:2),0,0,1,,N305
+SM(t18:1_16:1),0,1,1,,N309
+SM(t18:1_24:0),1,0,1,,N310
+SM(t18:1_24:1),0,1,0,,N311
+Spermidine,0,1,1,P482,
+Sphingosine,0,1,0,P483,
+Sphingosine-1-phosphate,0,1,1,P484,
+ST 27:1;O;S,0,0,1,N400,
+ST 28:1;O;S,0,0,1,N401,
+SUCCINIC ACID,0,1,1,N403,
+Succinylcarnitine,0,1,1,P486,
+Taurine,0,0,1,P487,
+Taurodeoxycholic acid 3-sulfate,0,0,1,N407,
+TDCA,1,0,1,N412,
+Tetrahydroaldosterone-3-glucuronide,0,1,0,N413,
+Tetrahydrocortisone,0,1,0,N414,
+TG(10:0_18:2_18:2),0,1,0,,P029
+TG(14:0_18:2_18:2),0,1,0,,P030
+TG(14:0_18:2_18:3),0,1,0,,P031
+TG(14:0_18:2_20:5),0,1,0,,P032
+TG(14:0_18:2_22:6),0,1,1,,P033
+TG(15:0_14:0_18:1),0,1,0,,P034
+TG(15:0_14:0_18:2),0,1,0,,P035
+TG(15:0_16:0_18:2),0,1,0,,P037
+TG(15:0_16:1_18:2),0,1,0,,P038
+TG(15:0_18:1_18:2),0,1,0,,P039
+TG(15:0_18:2_18:3),0,1,0,,P041
+TG(16:0_10:0_16:1),0,1,0,,P043
+TG(16:0_10:0_18:1),0,1,0,,P044
+TG(16:0_10:0_18:2),0,1,0,,P045
+TG(16:0_12:0_14:0),0,1,0,,P047
+TG(16:0_12:0_18:2),0,1,0,,P048
+TG(16:0_12:1_18:2),0,1,0,,P049
+TG(16:0_14:0_14:0),0,1,0,,P050
+TG(16:0_14:0_16:0),0,1,0,,P051
+TG(16:0_14:0_16:1),0,1,0,,P052
+TG(16:0_14:0_18:1),0,1,0,,P053
+TG(16:0_14:0_18:2),0,1,0,,P054
+TG(16:0_14:0_18:3),0,1,0,,P055
+TG(16:0_14:0_20:4),0,1,0,,P056
+TG(16:0_14:0_20:5),0,1,0,,P057
+TG(16:0_14:0_22:6),0,1,0,,P058
+TG(16:0_16:0_16:0),0,1,1,,P059
+TG(16:0_16:0_18:2),0,1,0,,P062
+TG(16:0_16:1_18:1),0,1,0,,P063
+TG(16:0_16:1_18:2),0,1,0,,P064
+TG(16:0_16:1_22:6),0,1,1,,P065
+TG(16:0_18:1_18:1),0,1,0,,P070
+TG(16:0_18:1_18:2),0,1,0,,P071
+TG(16:0_18:1_20:4),0,0,1,,P072
+TG(16:0_18:1_22:6),0,1,0,,P073
+TG(16:0_18:1_24:1),0,1,0,,P074
+TG(16:0_18:2_18:2),0,1,0,,P076
+TG(16:0_18:2_18:3),0,1,0,,P077
+TG(16:0_18:2_20:4),0,1,1,,P078
+TG(16:0_18:2_20:5),0,1,1,,P079
+TG(16:0_18:2_22:6),0,1,1,,P080
+TG(16:0_20:4_22:5),0,1,1,,P081
+TG(16:0_6:0_18:1),0,1,0,,P083
+TG(16:0_8:0_18:2),0,1,0,,P084
+TG(16:0e_16:0_18:1),0,1,0,,P085
+TG(16:1_12:0_18:2),0,1,0,,P086
+TG(16:1_14:0_18:2),0,1,0,,P087
+TG(16:1_16:1_18:2),0,1,0,,P088
+TG(16:1_18:2_18:2),0,1,0,,P089
+TG(16:1_18:2_18:3),0,1,0,,P090
+TG(16:1_18:2_22:6),0,1,0,,P091
+TG(16:1_18:3_22:6),0,1,0,,P092
+TG(17:0_18:2_18:3),0,1,0,,P096
+TG(17:0_18:2_22:6),0,1,1,,P097
+TG(18:0_16:0_16:0),0,1,1,,P098
+TG(18:0_16:0_20:0),0,1,1,,P100
+TG(18:0_18:1_20:4),0,0,1,,P107
+TG(18:0_18:2_20:4),0,1,1,,P109
+TG(18:0_20:4_22:5),0,1,1,,P110
+TG(18:1_10:1_18:2),0,1,0,,P112
+TG(18:1_12:1_18:2),0,1,0,,P113
+TG(18:1_17:1_18:2),0,1,0,,P114
+TG(18:1_18:1_18:2),0,1,0,,P116
+TG(18:1_18:1_20:4),0,1,1,,P117
+TG(18:1_18:1_22:5),0,0,1,,P118
+TG(18:1_18:1_22:6),0,1,1,,P119
+TG(18:1_18:1_24:1),0,1,0,,P120
+TG(18:1_18:2_18:3),0,1,0,,P122
+TG(18:1_18:2_22:5),0,1,1,,P123
+TG(18:1_18:2_22:6),0,1,1,,P124
+TG(18:1_20:4_22:5),0,0,1,,P127
+TG(18:1_22:6_22:6),0,0,1,,P128
+TG(18:1e_16:0_18:1),1,1,0,,P129
+TG(18:2_13:0_18:2),0,1,0,,P130
+TG(18:2_14:2_18:2),0,1,0,,P131
+TG(18:2_17:1_22:6),0,1,1,,P132
+TG(18:2_18:2_18:2),0,1,1,,P133
+TG(18:2_18:2_22:6),0,0,1,,P134
+TG(18:2_20:4_22:6),0,1,0,,P136
+TG(18:3_14:1_18:2),0,1,0,,P138
+TG(18:3_17:1_18:2),0,1,0,,P139
+TG(18:3_18:2_18:2),0,1,0,,P140
+TG(18:3_18:2_18:3),0,1,1,,P141
+TG(18:3_18:2_20:5),0,1,1,,P142
+TG(20:1_18:1_20:4),0,1,1,,P148
+TG(20:5_14:1_18:2),0,1,0,,P149
+TG(20:5_18:2_18:2),0,1,1,,P150
+TG(22:5_18:2_18:2),0,1,1,,P154
+TG(8:0_18:1_18:2),0,1,0,,P155
+Thiomorpholine 3-carboxylate,1,1,0,P491,
+Threonic acid,0,0,1,N416,
+Threonine,0,1,0,P492,
+Threoninyl-phenylalanine,0,0,1,P493,
+Thyroxine,0,1,0,P495,
+Trans-Dodec-2-enoic acid,1,1,1,N420,
+Tryptophan,0,1,0,P500,
+Tyramine O-sulfate,0,0,1,N424,
+Tyrosine,1,1,1,P502,
+UDCA,1,1,0,N426,
+Uracil,0,1,1,N427,
+Uridine,0,1,0,N429,
+Val,1,1,1,P506,
+Valylleucine,0,1,1,N431,
+Vanillin-4-sulfate,1,0,0,N432,
+Vanillylmandelate,0,0,1,N433,
+Xanthine,0,1,1,N434,
+Xanthurenic acid,0,1,0,P510,

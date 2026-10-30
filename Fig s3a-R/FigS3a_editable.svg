@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="302.40000pt" height="329.08235pt" viewBox="0 0 302.40000 329.08235">
+<rect width="302.40000" height="329.08235" fill="#FFFFFF"/>
+<g id="sets">
+<circle cx="151.20000" cy="118.29176" r="84.49412" fill="#CE4858" fill-opacity="0.65"/>
+<circle cx="104.06118" cy="199.22824" r="84.49412" fill="#DDD17B" fill-opacity="0.65"/>
+<circle cx="198.33882" cy="199.22824" r="84.49412" fill="#8FC56B" fill-opacity="0.65"/>
+<circle cx="151.20000" cy="118.29176" r="84.49412" fill="none" stroke="#333333" stroke-width="0.5" stroke-dasharray="2.5,2.5"/>
+<circle cx="104.06118" cy="199.22824" r="84.49412" fill="none" stroke="#333333" stroke-width="0.5" stroke-dasharray="2.5,2.5"/>
+<circle cx="198.33882" cy="199.22824" r="84.49412" fill="none" stroke="#333333" stroke-width="0.5" stroke-dasharray="2.5,2.5"/>
+</g>
+<g id="region_counts">
+<text x="151.20000" y="83.71906" font-family="Arial" font-size="10.80" font-weight="bold" fill="#101010" text-anchor="middle">32</text>
+<text x="70.26353" y="223.35671" font-family="Arial" font-size="10.80" font-weight="bold" fill="#101010" text-anchor="middle">244</text>
+<text x="232.13647" y="223.35671" font-family="Arial" font-size="10.80" font-weight="bold" fill="#101010" text-anchor="middle">126</text>
+<text x="109.39765" y="152.20376" font-family="Arial" font-size="10.80" font-weight="bold" fill="#101010" text-anchor="middle">44</text>
+<text x="193.00235" y="152.20376" font-family="Arial" font-size="10.80" font-weight="bold" fill="#101010" text-anchor="middle">18</text>
+<text x="151.20000" y="246.48141" font-family="Arial" font-size="10.80" font-weight="bold" fill="#101010" text-anchor="middle">216</text>
+<text x="151.20000" y="186.00141" font-family="Arial" font-size="10.80" font-weight="bold" fill="#101010" text-anchor="middle">81</text>
+</g>
+<g id="set_labels">
+<text x="151.20000" y="13.18353" font-family="Arial" font-size="10.00" font-weight="bold" fill="#101010" text-anchor="middle">AAD-specific</text>
+<text x="151.20000" y="29.64035" font-family="Arial" font-size="8.70" font-weight="normal" fill="#101010" text-anchor="middle">175 features</text>
+<text x="74.71059" y="302.24235" font-family="Arial" font-size="10.00" font-weight="bold" fill="#101010" text-anchor="middle">AAD vs HP</text>
+<text x="74.71059" y="318.69918" font-family="Arial" font-size="8.70" font-weight="normal" fill="#101010" text-anchor="middle">585 features</text>
+<text x="227.68941" y="302.24235" font-family="Arial" font-size="10.00" font-weight="bold" fill="#101010" text-anchor="middle">AAD vs AMI</text>
+<text x="227.68941" y="318.69918" font-family="Arial" font-size="8.70" font-weight="normal" fill="#101010" text-anchor="middle">441 features</text>
+</g>
+<text x="9.78353" y="18.61118" font-family="Arial" font-size="15.50" font-weight="bold" fill="#101010" text-anchor="middle">a</text>
+</svg>
