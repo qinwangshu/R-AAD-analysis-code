@@ -1,0 +1,130 @@
+﻿pathway,comparison,Hits,Raw_p,log2_P,FDR,row_order
+Arginine biosynthesis,AAD VS CTRL,5,2.3862e-05,-15.354925506459894,0.0019089,1
+Glyoxylate and dicarboxylate metabolism,AAD VS CTRL,5,0.0016392,-9.25279239520029,0.065567,6
+Glycerophospholipid metabolism,AAD VS CTRL,5,0.0028198,-8.470191444463742,0.075194,4
+"Phenylalanine, tyrosine and tryptophan biosynthesis",AAD VS CTRL,2,0.0045229,-7.7885361859067705,0.090458,8
+Nicotinate and nicotinamide metabolism,AAD VS CTRL,3,0.0075734,-7.044843155928893,0.12118,7
+Sphingolipid metabolism,AAD VS CTRL,4,0.011238,-6.475470884359972,0.14317,9
+"Glycine, serine and threonine metabolism",AAD VS CTRL,4,0.012527,-6.318815234279524,0.14317,10
+Citrate cycle (TCA cycle),AAD VS CTRL,3,0.01719,-5.8622866449587505,0.15708,12
+"Valine, leucine and isoleucine biosynthesis",AAD VS CTRL,2,0.019635,-5.670428591770415,0.15708,14
+Phenylalanine metabolism,AAD VS CTRL,2,0.019635,-5.670428591770415,0.15708,13
+One carbon pool by folate,AAD VS CTRL,3,0.034843,-4.842987343714177,0.2534,18
+Glutathione metabolism,AAD VS CTRL,3,0.042217,-4.566032127406543,0.2598,19
+"Alanine, aspartate and glutamate metabolism",AAD VS CTRL,3,0.042217,-4.566032127406543,0.2598,5
+Butanoate metabolism,AAD VS CTRL,2,0.064966,-3.9441713095529227,0.36471,16
+Histidine metabolism,AAD VS CTRL,2,0.072942,-3.777106432237742,0.36471,15
+Glycerolipid metabolism,AAD VS CTRL,2,0.072942,-3.777106432237742,0.36471,17
+Arginine and proline metabolism,AAD VS CTRL,3,0.078746,-3.666649547884053,0.37057,2
+Steroid hormone biosynthesis,AAD VS CTRL,5,0.094781,-3.3992583073711007,0.42125,21
+Pantothenate and CoA biosynthesis,AAD VS CTRL,2,0.10762,-3.215981882982038,0.45314,29
+beta-Alanine metabolism,AAD VS CTRL,2,0.11688,-3.0969000116333136,0.46751,20
+Linoleic acid metabolism,AAD VS CTRL,1,0.13372,-2.9027128348194084,0.49443,26
+Pyruvate metabolism,AAD VS CTRL,2,0.13597,-2.8786397200702187,0.49443,25
+Nitrogen metabolism,AAD VS CTRL,1,0.15829,-2.659357979059217,0.55056,28
+Ascorbate and aldarate metabolism,AAD VS CTRL,1,0.22796,-2.133147397095221,0.75987,36
+Cysteine and methionine metabolism,AAD VS CTRL,2,0.23876,-2.0663669359870087,0.76405,37
+Biotin metabolism,AAD VS CTRL,1,0.24991,-2.0005194637238017,0.76895,38
+Pyrimidine metabolism,AAD VS CTRL,2,0.30269,-1.724087081395932,0.87472,33
+alpha-Linolenic acid metabolism,AAD VS CTRL,1,0.31215,-1.6796886290929587,0.87472,35
+Purine metabolism,AAD VS CTRL,3,0.31709,-1.6570357146953623,0.87472,22
+Tyrosine metabolism,AAD VS CTRL,2,0.33446,-1.5800944139228754,0.88861,40
+D-Amino acid metabolism,AAD VS CTRL,1,0.35081,-1.511238221834524,0.88861,41
+Arachidonic acid metabolism,AAD VS CTRL,2,0.35544,-1.4923220484268078,0.88861,34
+Primary bile acid biosynthesis,AAD VS CTRL,2,0.37621,-1.4103898973854607,0.91202,42
+Ubiquinone and other terpenoid-quinone biosynthesis,AAD VS CTRL,1,0.42186,-1.2451637945721548,0.99262,45
+Ether lipid metabolism,AAD VS CTRL,1,0.4384,-1.1896802965889226,1.0,47
+Pentose phosphate pathway,AAD VS CTRL,1,0.48529,-1.0430809629926499,1.0,24
+Glycolysis or Gluconeogenesis,AAD VS CTRL,1,0.52835,-0.9204341501897252,1.0,43
+Galactose metabolism,AAD VS CTRL,1,0.5419,-0.8839014477634202,1.0,49
+Lipoic acid metabolism,AAD VS CTRL,1,0.55507,-0.8492583733620173,1.0,44
+Lysine degradation,AAD VS CTRL,1,0.58032,-0.7850794444665321,1.0,27
+Inositol phosphate metabolism,AAD VS CTRL,1,0.58032,-0.7850794444665321,1.0,50
+Porphyrin metabolism,AAD VS CTRL,1,0.59241,-0.7553321010724799,1.0,46
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,AAD VS CTRL,1,0.60416,-0.7269974250749704,1.0,30
+Biosynthesis of unsaturated fatty acids,AAD VS CTRL,1,0.64793,-0.6260901368822295,1.0,3
+"Valine, leucine and isoleucine degradation",AAD VS CTRL,1,0.68696,-0.5417019980007481,1.0,51
+Tryptophan metabolism,AAD VS CTRL,1,0.69604,-0.5227578776877425,1.0,52
+Biosynthesis of unsaturated fatty acids,HP VS CTRL,5,0.00035647,-11.453931712901051,0.014259,3
+Glycerophospholipid metabolism,HP VS CTRL,5,0.00035647,-11.453931712901051,0.014259,4
+"Alanine, aspartate and glutamate metabolism",HP VS CTRL,4,0.0013456,-9.537534673956392,0.034183,5
+Arginine biosynthesis,HP VS CTRL,3,0.0017303,-9.174762090158552,0.034183,1
+Nicotinate and nicotinamide metabolism,HP VS CTRL,3,0.0021364,-8.870602495319401,0.034183,7
+Caffeine metabolism,HP VS CTRL,2,0.013175,-6.246053227912235,0.17566,11
+Glyoxylate and dicarboxylate metabolism,HP VS CTRL,3,0.018909,-5.724783121208816,0.2161,6
+Butanoate metabolism,HP VS CTRL,2,0.029056,-5.105020082033259,0.26269,16
+Histidine metabolism,HP VS CTRL,2,0.032836,-4.928577797483622,0.26269,15
+Glycerolipid metabolism,HP VS CTRL,2,0.032836,-4.928577797483622,0.26269,17
+Citrate cycle (TCA cycle),HP VS CTRL,2,0.049711,-4.330291064556365,0.34335,12
+Fatty acid biosynthesis,HP VS CTRL,3,0.051502,-4.279227731574864,0.34335,23
+Pyruvate metabolism,HP VS CTRL,2,0.064013,-3.9654912669905062,0.36579,25
+Pentose phosphate pathway,HP VS CTRL,2,0.064013,-3.9654912669905062,0.36579,24
+One carbon pool by folate,HP VS CTRL,2,0.079531,-3.652338878700392,0.42417,18
+Linoleic acid metabolism,HP VS CTRL,1,0.087929,-3.5075171284325126,0.43964,26
+Nitrogen metabolism,HP VS CTRL,1,0.1046,-3.257045243302508,0.49221,28
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,HP VS CTRL,2,0.11358,-3.13821927801195,0.50349,30
+"Glycine, serine and threonine metabolism",HP VS CTRL,2,0.11958,-3.0639519788765974,0.50349,10
+Taurine and hypotaurine metabolism,HP VS CTRL,1,0.13705,-2.8672257667236742,0.5259,31
+Arginine and proline metabolism,HP VS CTRL,2,0.13805,-2.85673720696138,0.5259,2
+Fatty acid degradation,HP VS CTRL,2,0.15712,-2.6700612601221185,0.57134,32
+Arachidonic acid metabolism,HP VS CTRL,2,0.18994,-2.396384336188869,0.66067,34
+alpha-Linolenic acid metabolism,HP VS CTRL,1,0.2133,-2.229044129208878,0.71099,35
+Selenocompound metabolism,HP VS CTRL,1,0.30921,-1.6933411174191715,0.9514,39
+Pantothenate and CoA biosynthesis,HP VS CTRL,1,0.30921,-1.6933411174191715,0.9514,29
+beta-Alanine metabolism,HP VS CTRL,1,0.32195,-1.6350914449112852,0.95392,20
+Glycolysis or Gluconeogenesis,HP VS CTRL,1,0.38234,-1.3870719536139213,1.0,43
+Lipoic acid metabolism,HP VS CTRL,1,0.40501,-1.3039705652300968,1.0,44
+Glutathione metabolism,HP VS CTRL,1,0.40501,-1.3039705652300968,1.0,19
+Porphyrin metabolism,HP VS CTRL,1,0.43752,-1.1925791276765212,1.0,46
+Cysteine and methionine metabolism,HP VS CTRL,1,0.45823,-1.1258561809099596,1.0,37
+Fatty acid elongation,HP VS CTRL,1,0.51604,-0.9544451967484943,1.0,48
+Tyrosine metabolism,HP VS CTRL,1,0.54267,-0.8818529393810625,1.0,40
+Primary bile acid biosynthesis,HP VS CTRL,1,0.57598,-0.7959093776672835,1.0,42
+Arginine biosynthesis,AMI VS CTRL,6,5.8481e-06,-17.383600588356906,0.00046785,1
+Arginine and proline metabolism,AMI VS CTRL,7,0.00029821,-11.71138374262389,0.011928,2
+"Alanine, aspartate and glutamate metabolism",AMI VS CTRL,5,0.0034854,-8.164460048969804,0.092944,5
+Nicotinate and nicotinamide metabolism,AMI VS CTRL,3,0.017532,-5.833865605799519,0.29366,7
+Histidine metabolism,AMI VS CTRL,3,0.020997,-5.573672975897662,0.29366,15
+Glyoxylate and dicarboxylate metabolism,AMI VS CTRL,4,0.031409,-4.992678178590225,0.29366,6
+Sphingolipid metabolism,AMI VS CTRL,4,0.031409,-4.992678178590225,0.29366,9
+Citrate cycle (TCA cycle),AMI VS CTRL,3,0.038346,-4.7047800965611914,0.29366,12
+beta-Alanine metabolism,AMI VS CTRL,3,0.043543,-4.5214153808700495,0.29366,20
+Steroid hormone biosynthesis,AMI VS CTRL,7,0.044773,-4.481227200992314,0.29366,21
+Biosynthesis of unsaturated fatty acids,AMI VS CTRL,4,0.04593,-4.444419406215868,0.29366,3
+Glycerophospholipid metabolism,AMI VS CTRL,4,0.04593,-4.444419406215868,0.29366,4
+Purine metabolism,AMI VS CTRL,6,0.04772,-4.389262146741584,0.29366,22
+Caffeine metabolism,AMI VS CTRL,2,0.053321,-4.229152352305221,0.30469,11
+Glutathione metabolism,AMI VS CTRL,3,0.088878,-3.492029837297789,0.47402,19
+Lysine degradation,AMI VS CTRL,3,0.10444,-3.2592537321239696,0.5184,27
+Butanoate metabolism,AMI VS CTRL,2,0.11016,-3.1823276303018475,0.5184,16
+"Glycine, serine and threonine metabolism",AMI VS CTRL,3,0.12962,-2.947639755718331,0.57609,10
+"Phenylalanine, tyrosine and tryptophan biosynthesis",AMI VS CTRL,1,0.14481,-2.787766862271053,0.60972,8
+Pantothenate and CoA biosynthesis,AMI VS CTRL,2,0.17683,-2.49956503973028,0.67441,29
+Linoleic acid metabolism,AMI VS CTRL,1,0.17766,-2.492809198538102,0.67441,26
+Pyrimidine metabolism,AMI VS CTRL,3,0.18546,-2.4308200348574323,0.67441,33
+Nitrogen metabolism,AMI VS CTRL,1,0.20927,-2.2565625867020147,0.72789,28
+Pyruvate metabolism,AMI VS CTRL,2,0.21934,-2.1887591614013187,0.73112,25
+"Valine, leucine and isoleucine biosynthesis",AMI VS CTRL,1,0.26894,-1.8946437487136805,0.79687,14
+Phenylalanine metabolism,AMI VS CTRL,1,0.26894,-1.8946437487136805,0.79687,13
+Taurine and hypotaurine metabolism,AMI VS CTRL,1,0.26894,-1.8946437487136805,0.79687,31
+Ascorbate and aldarate metabolism,AMI VS CTRL,1,0.2971,-1.7509794897140352,0.84884,36
+Biotin metabolism,AMI VS CTRL,1,0.32418,-1.6251330070882233,0.89429,38
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,AMI VS CTRL,2,0.34906,-1.518453051969707,0.93082,30
+alpha-Linolenic acid metabolism,AMI VS CTRL,1,0.39943,-1.3239854014999737,1.0,35
+D-Amino acid metabolism,AMI VS CTRL,1,0.44495,-1.1682848684821745,1.0,41
+Glycerolipid metabolism,AMI VS CTRL,1,0.46642,-1.10029844253638,1.0,17
+Tyrosine metabolism,AMI VS CTRL,2,0.48441,-1.0456994470279215,1.0,40
+Arachidonic acid metabolism,AMI VS CTRL,2,0.50946,-0.9729592165375411,1.0,34
+Ether lipid metabolism,AMI VS CTRL,1,0.54442,-0.8772080277316819,1.0,47
+Pentose phosphate pathway,AMI VS CTRL,1,0.59546,-0.747923496520646,1.0,24
+Glycolysis or Gluconeogenesis,AMI VS CTRL,1,0.64086,-0.6419188696591661,1.0,43
+One carbon pool by folate,AMI VS CTRL,1,0.64086,-0.6419188696591661,1.0,18
+Galactose metabolism,AMI VS CTRL,1,0.65485,-0.6107636142510612,1.0,49
+Lipoic acid metabolism,AMI VS CTRL,1,0.6683,-0.5814322207002881,1.0,44
+Inositol phosphate metabolism,AMI VS CTRL,1,0.69368,-0.5276578051111347,1.0,50
+Cysteine and methionine metabolism,AMI VS CTRL,1,0.72821,-0.45757354244419446,1.0,37
+Fatty acid elongation,AMI VS CTRL,1,0.78617,-0.3470867828641088,1.0,48
+Fatty acid degradation,AMI VS CTRL,1,0.78617,-0.3470867828641088,1.0,32
+Tryptophan metabolism,AMI VS CTRL,1,0.80265,-0.3171570652269308,1.0,52
+Primary bile acid biosynthesis,AMI VS CTRL,1,0.83856,-0.2540140807988961,1.0,42
+Fatty acid biosynthesis,AMI VS CTRL,1,0.84493,-0.2430962716417182,1.0,23

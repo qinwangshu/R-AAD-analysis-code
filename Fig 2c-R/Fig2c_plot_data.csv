@@ -1,0 +1,60 @@
+"pathway","comparison","row_order","Hits","Raw_p","log2_P","FDR","significant_Raw_p"
+"Arginine biosynthesis","AAD VS CTRL",1,5,2.3862e-05,-15.3549255064599,0.0019089,TRUE
+"Arginine biosynthesis","HP VS CTRL",1,3,0.0017303,-9.17476209015855,0.034183,TRUE
+"Arginine biosynthesis","AMI VS CTRL",1,6,5.8481e-06,-17.3836005883569,0.00046785,TRUE
+"Arginine and proline metabolism","AAD VS CTRL",2,3,0.078746,-3.66664954788405,0.37057,FALSE
+"Arginine and proline metabolism","HP VS CTRL",2,2,0.13805,-2.85673720696138,0.5259,FALSE
+"Arginine and proline metabolism","AMI VS CTRL",2,7,0.00029821,-11.7113837426239,0.011928,TRUE
+"Biosynthesis of unsaturated fatty acids","AAD VS CTRL",3,1,0.64793,-0.626090136882229,1,FALSE
+"Biosynthesis of unsaturated fatty acids","HP VS CTRL",3,5,0.00035647,-11.4539317129011,0.014259,TRUE
+"Biosynthesis of unsaturated fatty acids","AMI VS CTRL",3,4,0.04593,-4.44441940621587,0.29366,TRUE
+"Glycerophospholipid metabolism","AAD VS CTRL",4,5,0.0028198,-8.47019144446374,0.075194,TRUE
+"Glycerophospholipid metabolism","HP VS CTRL",4,5,0.00035647,-11.4539317129011,0.014259,TRUE
+"Glycerophospholipid metabolism","AMI VS CTRL",4,4,0.04593,-4.44441940621587,0.29366,TRUE
+"Alanine, aspartate and glutamate metabolism","AAD VS CTRL",5,3,0.042217,-4.56603212740654,0.2598,TRUE
+"Alanine, aspartate and glutamate metabolism","HP VS CTRL",5,4,0.0013456,-9.53753467395639,0.034183,TRUE
+"Alanine, aspartate and glutamate metabolism","AMI VS CTRL",5,5,0.0034854,-8.1644600489698,0.092944,TRUE
+"Glyoxylate and dicarboxylate metabolism","AAD VS CTRL",6,5,0.0016392,-9.25279239520029,0.065567,TRUE
+"Glyoxylate and dicarboxylate metabolism","HP VS CTRL",6,3,0.018909,-5.72478312120882,0.2161,TRUE
+"Glyoxylate and dicarboxylate metabolism","AMI VS CTRL",6,4,0.031409,-4.99267817859023,0.29366,TRUE
+"Nicotinate and nicotinamide metabolism","AAD VS CTRL",7,3,0.0075734,-7.04484315592889,0.12118,TRUE
+"Nicotinate and nicotinamide metabolism","HP VS CTRL",7,3,0.0021364,-8.8706024953194,0.034183,TRUE
+"Nicotinate and nicotinamide metabolism","AMI VS CTRL",7,3,0.017532,-5.83386560579952,0.29366,TRUE
+"Phenylalanine, tyrosine and tryptophan biosynthesis","AAD VS CTRL",8,2,0.0045229,-7.78853618590677,0.090458,TRUE
+"Phenylalanine, tyrosine and tryptophan biosynthesis","AMI VS CTRL",8,1,0.14481,-2.78776686227105,0.60972,FALSE
+"Sphingolipid metabolism","AAD VS CTRL",9,4,0.011238,-6.47547088435997,0.14317,TRUE
+"Sphingolipid metabolism","AMI VS CTRL",9,4,0.031409,-4.99267817859023,0.29366,TRUE
+"Glycine, serine and threonine metabolism","AAD VS CTRL",10,4,0.012527,-6.31881523427952,0.14317,TRUE
+"Glycine, serine and threonine metabolism","HP VS CTRL",10,2,0.11958,-3.0639519788766,0.50349,FALSE
+"Glycine, serine and threonine metabolism","AMI VS CTRL",10,3,0.12962,-2.94763975571833,0.57609,FALSE
+"Caffeine metabolism","HP VS CTRL",11,2,0.013175,-6.24605322791223,0.17566,TRUE
+"Caffeine metabolism","AMI VS CTRL",11,2,0.053321,-4.22915235230522,0.30469,FALSE
+"Citrate cycle (TCA cycle)","AAD VS CTRL",12,3,0.01719,-5.86228664495875,0.15708,TRUE
+"Citrate cycle (TCA cycle)","HP VS CTRL",12,2,0.049711,-4.33029106455636,0.34335,TRUE
+"Citrate cycle (TCA cycle)","AMI VS CTRL",12,3,0.038346,-4.70478009656119,0.29366,TRUE
+"Phenylalanine metabolism","AAD VS CTRL",13,2,0.019635,-5.67042859177042,0.15708,TRUE
+"Phenylalanine metabolism","AMI VS CTRL",13,1,0.26894,-1.89464374871368,0.79687,FALSE
+"Valine, leucine and isoleucine biosynthesis","AAD VS CTRL",14,2,0.019635,-5.67042859177042,0.15708,TRUE
+"Valine, leucine and isoleucine biosynthesis","AMI VS CTRL",14,1,0.26894,-1.89464374871368,0.79687,FALSE
+"Histidine metabolism","AAD VS CTRL",15,2,0.072942,-3.77710643223774,0.36471,FALSE
+"Histidine metabolism","HP VS CTRL",15,2,0.032836,-4.92857779748362,0.26269,TRUE
+"Histidine metabolism","AMI VS CTRL",15,3,0.020997,-5.57367297589766,0.29366,TRUE
+"Butanoate metabolism","AAD VS CTRL",16,2,0.064966,-3.94417130955292,0.36471,FALSE
+"Butanoate metabolism","HP VS CTRL",16,2,0.029056,-5.10502008203326,0.26269,TRUE
+"Butanoate metabolism","AMI VS CTRL",16,2,0.11016,-3.18232763030185,0.5184,FALSE
+"Glycerolipid metabolism","AAD VS CTRL",17,2,0.072942,-3.77710643223774,0.36471,FALSE
+"Glycerolipid metabolism","HP VS CTRL",17,2,0.032836,-4.92857779748362,0.26269,TRUE
+"Glycerolipid metabolism","AMI VS CTRL",17,1,0.46642,-1.10029844253638,1,FALSE
+"One carbon pool by folate","AAD VS CTRL",18,3,0.034843,-4.84298734371418,0.2534,TRUE
+"One carbon pool by folate","HP VS CTRL",18,2,0.079531,-3.65233887870039,0.42417,FALSE
+"One carbon pool by folate","AMI VS CTRL",18,1,0.64086,-0.641918869659166,1,FALSE
+"Glutathione metabolism","AAD VS CTRL",19,3,0.042217,-4.56603212740654,0.2598,TRUE
+"Glutathione metabolism","HP VS CTRL",19,1,0.40501,-1.3039705652301,1,FALSE
+"Glutathione metabolism","AMI VS CTRL",19,3,0.088878,-3.49202983729779,0.47402,FALSE
+"beta-Alanine metabolism","AAD VS CTRL",20,2,0.11688,-3.09690001163331,0.46751,FALSE
+"beta-Alanine metabolism","HP VS CTRL",20,1,0.32195,-1.63509144491129,0.95392,FALSE
+"beta-Alanine metabolism","AMI VS CTRL",20,3,0.043543,-4.52141538087005,0.29366,TRUE
+"Steroid hormone biosynthesis","AAD VS CTRL",21,5,0.094781,-3.3992583073711,0.42125,FALSE
+"Steroid hormone biosynthesis","AMI VS CTRL",21,7,0.044773,-4.48122720099231,0.29366,TRUE
+"Purine metabolism","AAD VS CTRL",22,3,0.31709,-1.65703571469536,0.87472,FALSE
+"Purine metabolism","AMI VS CTRL",22,6,0.04772,-4.38926214674158,0.29366,TRUE
