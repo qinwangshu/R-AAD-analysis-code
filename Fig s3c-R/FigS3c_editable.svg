@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="780pt" height="530pt" viewBox="0 0 780 530">
+<rect width="100%" height="100%" fill="white"/>
+<text x="8.0000" y="25.0000" font-family="Arial" font-size="23" text-anchor="start" fill="#111111" font-weight="normal" >c</text>
+<text x="390.0000" y="21.0000" font-family="Arial" font-size="12" text-anchor="middle" fill="#111111" font-weight="normal" >81 candidate features</text>
+<g id="cluster_1">
+<text x="214.5000" y="45.0000" font-family="Arial" font-size="14" text-anchor="middle" fill="#111111" font-weight="normal" >Cluster 1 (n = 25)</text>
+<line x1="67.0000" y1="220.5455" x2="362.0000" y2="220.5455" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="63.0000" y1="220.5455" x2="67.0000" y2="220.5455" stroke="#222222" stroke-width="1" />
+<text x="59.0000" y="224.0455" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >-1.5</text>
+<line x1="67.0000" y1="195.6970" x2="362.0000" y2="195.6970" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="63.0000" y1="195.6970" x2="67.0000" y2="195.6970" stroke="#222222" stroke-width="1" />
+<text x="59.0000" y="199.1970" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >-1</text>
+<line x1="67.0000" y1="170.8485" x2="362.0000" y2="170.8485" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="63.0000" y1="170.8485" x2="67.0000" y2="170.8485" stroke="#222222" stroke-width="1" />
+<text x="59.0000" y="174.3485" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >-0.5</text>
+<line x1="67.0000" y1="146.0000" x2="362.0000" y2="146.0000" stroke="#BBBBBB" stroke-width="0.8" />
+<line x1="63.0000" y1="146.0000" x2="67.0000" y2="146.0000" stroke="#222222" stroke-width="1" />
+<text x="59.0000" y="149.5000" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >0</text>
+<line x1="67.0000" y1="121.1515" x2="362.0000" y2="121.1515" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="63.0000" y1="121.1515" x2="67.0000" y2="121.1515" stroke="#222222" stroke-width="1" />
+<text x="59.0000" y="124.6515" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >0.5</text>
+<line x1="67.0000" y1="96.3030" x2="362.0000" y2="96.3030" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="63.0000" y1="96.3030" x2="67.0000" y2="96.3030" stroke="#222222" stroke-width="1" />
+<text x="59.0000" y="99.8030" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >1</text>
+<line x1="67.0000" y1="71.4545" x2="362.0000" y2="71.4545" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="63.0000" y1="71.4545" x2="67.0000" y2="71.4545" stroke="#222222" stroke-width="1" />
+<text x="59.0000" y="74.9545" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >1.5</text>
+<polyline points="67.0000,110.7617 165.3333,138.3958 263.6667,116.4700 362.0000,218.3725" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>3-Oxotetradecanoate</title></polyline>
+<polyline points="67.0000,115.0917 165.3333,134.5714 263.6667,115.0761 362.0000,219.2608" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>4-hydroxybenzaldehyde</title></polyline>
+<polyline points="67.0000,114.9773 165.3333,127.5396 263.6667,121.3357 362.0000,220.1474" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>4-vinylguaiacol sulfate</title></polyline>
+<polyline points="67.0000,89.3181 165.3333,140.1431 263.6667,144.0530 362.0000,210.4859" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Carnitine C11:0</title></polyline>
+<polyline points="67.0000,111.9131 165.3333,127.6274 263.6667,124.6173 362.0000,219.8422" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>FA 13:0</title></polyline>
+<polyline points="67.0000,99.6904 165.3333,153.1011 263.6667,118.4571 362.0000,212.7514" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>FA 15:1</title></polyline>
+<polyline points="67.0000,117.2588 165.3333,118.5560 263.6667,127.9853 362.0000,220.1998" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>FA 16:4</title></polyline>
+<polyline points="67.0000,106.7799 165.3333,124.1299 263.6667,134.5519 362.0000,218.5382" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>FA 28:0</title></polyline>
+<polyline points="67.0000,116.2660 165.3333,132.6218 263.6667,115.5131 362.0000,219.5991" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>FAHFA 36:2;O</title></polyline>
+<polyline points="67.0000,100.3292 165.3333,121.5627 263.6667,147.3733 362.0000,214.7348" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Gamma-CEHC</title></polyline>
+<polyline points="67.0000,103.3594 165.3333,124.7265 263.6667,138.6119 362.0000,217.3022" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>LPC(22:1) sn-2</title></polyline>
+<polyline points="67.0000,125.6711 165.3333,128.1552 263.6667,110.5477 362.0000,219.6261" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>N-benzylformamide</title></polyline>
+<polyline points="67.0000,127.0415 165.3333,120.2116 263.6667,116.4901 362.0000,220.2568" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>PC(38:1)</title></polyline>
+<polyline points="67.0000,101.2928 165.3333,132.3168 263.6667,133.2508 362.0000,217.1397" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>PC(O-36:1)</title></polyline>
+<polyline points="67.0000,101.9179 165.3333,117.2251 263.6667,150.9320 362.0000,213.9250" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>PE O-34:2</title></polyline>
+<polyline points="67.0000,108.0537 165.3333,122.5963 263.6667,134.6048 362.0000,218.7452" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>PE(16:1e_22:6)</title></polyline>
+<polyline points="67.0000,87.9402 165.3333,140.4339 263.6667,146.3223 362.0000,209.3036" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>PE(20:1e_18:2)</title></polyline>
+<polyline points="67.0000,97.3625 165.3333,137.2592 263.6667,133.9385 362.0000,215.4398" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>PE(20:1e_22:6)</title></polyline>
+<polyline points="67.0000,90.6765 165.3333,146.1176 263.6667,136.0210 362.0000,211.1850" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>SM(33:1)</title></polyline>
+<polyline points="67.0000,128.8231 165.3333,118.5555 263.6667,116.5151 362.0000,220.1064" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>SM(d18:1_24:0)</title></polyline>
+<polyline points="67.0000,106.3130 165.3333,134.7204 263.6667,124.5350 362.0000,218.4316" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>SM(d20:0_18:1)</title></polyline>
+<polyline points="67.0000,128.3917 165.3333,124.7892 263.6667,111.1143 362.0000,219.7048" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Trans-Dodec-2-enoic acid</title></polyline>
+<polyline points="67.0000,117.8807 165.3333,126.9912 263.6667,118.8354 362.0000,220.2928" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Tyrosine</title></polyline>
+<polyline points="67.0000,115.7130 165.3333,122.9263 263.6667,125.0569 362.0000,220.3038" fill="none" stroke="#32754C" stroke-width="1.65" opacity="0.95" stroke-linejoin="round"><title>LPE(18:2) sn-1</title></polyline>
+<polyline points="67.0000,101.2100 165.3333,125.7688 263.6667,140.5630 362.0000,216.4582" fill="none" stroke="#32754C" stroke-width="1.65" opacity="0.95" stroke-linejoin="round"><title>LPE(18:2) sn-2</title></polyline>
+<polyline points="67.0000,114.3511 165.3333,126.4750 263.6667,125.7854 362.0000,217.3885" fill="none" stroke="#111111" stroke-width="1.7" opacity="1" stroke-linejoin="round"><title>Fuzzy cluster centroid</title></polyline>
+<line x1="67.0000" y1="64.0000" x2="67.0000" y2="228.0000" stroke="#222222" stroke-width="1" />
+<line x1="67.0000" y1="228.0000" x2="362.0000" y2="228.0000" stroke="#222222" stroke-width="1" />
+<line x1="67.0000" y1="228.0000" x2="67.0000" y2="232.0000" stroke="#222222" stroke-width="1" />
+<text x="67.0000" y="246.0000" font-family="Arial" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal" >Ctrl</text>
+<line x1="165.3333" y1="228.0000" x2="165.3333" y2="232.0000" stroke="#222222" stroke-width="1" />
+<text x="165.3333" y="246.0000" font-family="Arial" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal" >HP</text>
+<line x1="263.6667" y1="228.0000" x2="263.6667" y2="232.0000" stroke="#222222" stroke-width="1" />
+<text x="263.6667" y="246.0000" font-family="Arial" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal" >AMI</text>
+<line x1="362.0000" y1="228.0000" x2="362.0000" y2="232.0000" stroke="#222222" stroke-width="1" />
+<text x="362.0000" y="246.0000" font-family="Arial" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal" >AAD</text>
+<text x="24.0000" y="146.0000" font-family="Arial" font-size="10" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 24.0000 146.0000)">Standardized group mean</text>
+</g>
+<g id="cluster_2">
+<text x="600.5000" y="45.0000" font-family="Arial" font-size="14" text-anchor="middle" fill="#111111" font-weight="normal" >Cluster 2 (n = 30)</text>
+<line x1="453.0000" y1="220.5455" x2="748.0000" y2="220.5455" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="449.0000" y1="220.5455" x2="453.0000" y2="220.5455" stroke="#222222" stroke-width="1" />
+<text x="445.0000" y="224.0455" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >-1.5</text>
+<line x1="453.0000" y1="195.6970" x2="748.0000" y2="195.6970" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="449.0000" y1="195.6970" x2="453.0000" y2="195.6970" stroke="#222222" stroke-width="1" />
+<text x="445.0000" y="199.1970" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >-1</text>
+<line x1="453.0000" y1="170.8485" x2="748.0000" y2="170.8485" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="449.0000" y1="170.8485" x2="453.0000" y2="170.8485" stroke="#222222" stroke-width="1" />
+<text x="445.0000" y="174.3485" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >-0.5</text>
+<line x1="453.0000" y1="146.0000" x2="748.0000" y2="146.0000" stroke="#BBBBBB" stroke-width="0.8" />
+<line x1="449.0000" y1="146.0000" x2="453.0000" y2="146.0000" stroke="#222222" stroke-width="1" />
+<text x="445.0000" y="149.5000" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >0</text>
+<line x1="453.0000" y1="121.1515" x2="748.0000" y2="121.1515" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="449.0000" y1="121.1515" x2="453.0000" y2="121.1515" stroke="#222222" stroke-width="1" />
+<text x="445.0000" y="124.6515" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >0.5</text>
+<line x1="453.0000" y1="96.3030" x2="748.0000" y2="96.3030" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="449.0000" y1="96.3030" x2="453.0000" y2="96.3030" stroke="#222222" stroke-width="1" />
+<text x="445.0000" y="99.8030" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >1</text>
+<line x1="453.0000" y1="71.4545" x2="748.0000" y2="71.4545" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="449.0000" y1="71.4545" x2="453.0000" y2="71.4545" stroke="#222222" stroke-width="1" />
+<text x="445.0000" y="74.9545" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >1.5</text>
+<polyline points="453.0000,155.9341 551.3333,91.3053 649.6667,127.6531 748.0000,209.1075" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>2(R)-hydroxyicosanoic acid</title></polyline>
+<polyline points="453.0000,130.0257 551.3333,114.6476 649.6667,119.4075 748.0000,219.9192" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>4-vinylphenol sulfate</title></polyline>
+<polyline points="453.0000,124.3496 551.3333,107.5489 649.6667,133.2954 748.0000,218.8061" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>7-alpha-hydroxy-3-oxo-4-cholestenoate</title></polyline>
+<polyline points="453.0000,128.2821 551.3333,109.5370 649.6667,126.7325 748.0000,219.4483" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Cer(d18:2_20:0)</title></polyline>
+<polyline points="453.0000,130.5833 551.3333,97.3930 649.6667,140.8667 748.0000,215.1570" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Cer(t17:0_23:0)</title></polyline>
+<polyline points="453.0000,130.0832 551.3333,103.1183 649.6667,133.0403 748.0000,217.7581" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Cer(t17:0_23:0+O)</title></polyline>
+<polyline points="453.0000,125.8866 551.3333,106.3890 649.6667,133.1288 748.0000,218.5956" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Cer(t17:0_24:0)</title></polyline>
+<polyline points="453.0000,111.2769 551.3333,108.8713 649.6667,148.4311 748.0000,215.4206" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Cer(t17:0_25:0)</title></polyline>
+<polyline points="453.0000,122.2541 551.3333,107.1554 649.6667,136.1989 748.0000,218.3916" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Cer(t17:0_25:0+O)</title></polyline>
+<polyline points="453.0000,138.1007 551.3333,109.8168 649.6667,117.7118 748.0000,218.3707" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>DEET</title></polyline>
+<polyline points="453.0000,149.8966 551.3333,101.8063 649.6667,118.0384 748.0000,214.2587" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>FA 22:6</title></polyline>
+<polyline points="453.0000,103.9765 551.3333,113.7574 649.6667,152.7514 748.0000,213.5146" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Hex1Cer(d18:1_20:0)</title></polyline>
+<polyline points="453.0000,132.8283 551.3333,108.7375 649.6667,123.3862 748.0000,219.0479" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Lauryldiethanolamine</title></polyline>
+<polyline points="453.0000,116.3390 551.3333,100.7792 649.6667,154.4493 748.0000,212.4325" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>LPC (18:0)</title></polyline>
+<polyline points="453.0000,111.9083 551.3333,106.4023 649.6667,151.5073 748.0000,214.1822" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>LPC(17:0) sn-1</title></polyline>
+<polyline points="453.0000,131.2882 551.3333,112.7357 649.6667,120.3113 748.0000,219.6648" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>N-linoleoyl glycine</title></polyline>
+<polyline points="453.0000,112.6863 551.3333,108.2910 649.6667,147.1932 748.0000,215.8296" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Nicotyrine</title></polyline>
+<polyline points="453.0000,111.3976 551.3333,100.2697 649.6667,165.0228 748.0000,207.3099" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>PC(O-38:4)</title></polyline>
+<polyline points="453.0000,149.1495 551.3333,93.5425 649.6667,129.2293 748.0000,212.0787" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>PE(18:1e_22:4)</title></polyline>
+<polyline points="453.0000,126.7531 551.3333,100.6497 649.6667,140.2468 748.0000,216.3504" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>PE(P-16:0/22:6)</title></polyline>
+<polyline points="453.0000,126.0900 551.3333,104.9125 649.6667,134.8789 748.0000,218.1186" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Phe-Try</title></polyline>
+<polyline points="453.0000,115.6331 551.3333,110.1837 649.6667,140.2696 748.0000,217.9136" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Phenylpyruvic acid</title></polyline>
+<polyline points="453.0000,134.2876 551.3333,114.1213 649.6667,116.2891 748.0000,219.3021" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Schidigeragenin C</title></polyline>
+<polyline points="453.0000,131.9219 551.3333,103.7276 649.6667,130.3773 748.0000,217.9732" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>SM(d14:0_18:1)</title></polyline>
+<polyline points="453.0000,134.8844 551.3333,102.1895 649.6667,129.5426 748.0000,217.3835" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>SM(d18:2_16:0)</title></polyline>
+<polyline points="453.0000,115.9489 551.3333,101.3631 649.6667,153.9781 748.0000,212.7098" fill="none" stroke="#32754C" stroke-width="1.65" opacity="0.95" stroke-linejoin="round"><title>LPE (22:0) sn-1</title></polyline>
+<polyline points="453.0000,116.3713 551.3333,101.2249 649.6667,153.5479 748.0000,212.8560" fill="none" stroke="#32754C" stroke-width="1.65" opacity="0.95" stroke-linejoin="round"><title>LPE(16:1e)</title></polyline>
+<polyline points="453.0000,130.3396 551.3333,106.0435 649.6667,128.9699 748.0000,218.6469" fill="none" stroke="#32754C" stroke-width="1.65" opacity="0.95" stroke-linejoin="round"><title>LPE(18:1) sn-1</title></polyline>
+<polyline points="453.0000,117.2791 551.3333,106.3123 649.6667,143.6701 748.0000,216.7385" fill="none" stroke="#32754C" stroke-width="1.65" opacity="0.95" stroke-linejoin="round"><title>LPE(20:1) sn-1</title></polyline>
+<polyline points="453.0000,121.0692 551.3333,111.7998 649.6667,131.5773 748.0000,219.5537" fill="none" stroke="#32754C" stroke-width="1.65" opacity="0.95" stroke-linejoin="round"><title>LPE(20:2) sn-1</title></polyline>
+<polyline points="453.0000,125.0809 551.3333,108.3523 649.6667,133.3195 748.0000,217.2473" fill="none" stroke="#111111" stroke-width="1.7" opacity="1" stroke-linejoin="round"><title>Fuzzy cluster centroid</title></polyline>
+<line x1="453.0000" y1="64.0000" x2="453.0000" y2="228.0000" stroke="#222222" stroke-width="1" />
+<line x1="453.0000" y1="228.0000" x2="748.0000" y2="228.0000" stroke="#222222" stroke-width="1" />
+<line x1="453.0000" y1="228.0000" x2="453.0000" y2="232.0000" stroke="#222222" stroke-width="1" />
+<text x="453.0000" y="246.0000" font-family="Arial" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal" >Ctrl</text>
+<line x1="551.3333" y1="228.0000" x2="551.3333" y2="232.0000" stroke="#222222" stroke-width="1" />
+<text x="551.3333" y="246.0000" font-family="Arial" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal" >HP</text>
+<line x1="649.6667" y1="228.0000" x2="649.6667" y2="232.0000" stroke="#222222" stroke-width="1" />
+<text x="649.6667" y="246.0000" font-family="Arial" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal" >AMI</text>
+<line x1="748.0000" y1="228.0000" x2="748.0000" y2="232.0000" stroke="#222222" stroke-width="1" />
+<text x="748.0000" y="246.0000" font-family="Arial" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal" >AAD</text>
+<text x="410.0000" y="146.0000" font-family="Arial" font-size="10" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 410.0000 146.0000)">Standardized group mean</text>
+</g>
+<g id="cluster_3">
+<text x="214.5000" y="273.0000" font-family="Arial" font-size="14" text-anchor="middle" fill="#111111" font-weight="normal" >Cluster 3 (n = 22)</text>
+<line x1="67.0000" y1="448.5455" x2="362.0000" y2="448.5455" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="63.0000" y1="448.5455" x2="67.0000" y2="448.5455" stroke="#222222" stroke-width="1" />
+<text x="59.0000" y="452.0455" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >-1.5</text>
+<line x1="67.0000" y1="423.6970" x2="362.0000" y2="423.6970" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="63.0000" y1="423.6970" x2="67.0000" y2="423.6970" stroke="#222222" stroke-width="1" />
+<text x="59.0000" y="427.1970" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >-1</text>
+<line x1="67.0000" y1="398.8485" x2="362.0000" y2="398.8485" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="63.0000" y1="398.8485" x2="67.0000" y2="398.8485" stroke="#222222" stroke-width="1" />
+<text x="59.0000" y="402.3485" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >-0.5</text>
+<line x1="67.0000" y1="374.0000" x2="362.0000" y2="374.0000" stroke="#BBBBBB" stroke-width="0.8" />
+<line x1="63.0000" y1="374.0000" x2="67.0000" y2="374.0000" stroke="#222222" stroke-width="1" />
+<text x="59.0000" y="377.5000" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >0</text>
+<line x1="67.0000" y1="349.1515" x2="362.0000" y2="349.1515" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="63.0000" y1="349.1515" x2="67.0000" y2="349.1515" stroke="#222222" stroke-width="1" />
+<text x="59.0000" y="352.6515" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >0.5</text>
+<line x1="67.0000" y1="324.3030" x2="362.0000" y2="324.3030" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="63.0000" y1="324.3030" x2="67.0000" y2="324.3030" stroke="#222222" stroke-width="1" />
+<text x="59.0000" y="327.8030" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >1</text>
+<line x1="67.0000" y1="299.4545" x2="362.0000" y2="299.4545" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="63.0000" y1="299.4545" x2="67.0000" y2="299.4545" stroke="#222222" stroke-width="1" />
+<text x="59.0000" y="302.9545" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >1.5</text>
+<polyline points="67.0000,377.4819 165.3333,369.5217 263.6667,313.7665 362.0000,435.2300" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>(Z)-13-Oxo-9-octadecenoic acid</title></polyline>
+<polyline points="67.0000,346.4319 165.3333,384.8868 263.6667,325.8087 362.0000,438.8725" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>23S,25-dihydroxyvitamin D3</title></polyline>
+<polyline points="67.0000,363.2276 165.3333,384.2486 263.6667,314.3113 362.0000,434.2125" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>3-Oxododecanoate</title></polyline>
+<polyline points="67.0000,355.5328 165.3333,379.7294 263.6667,321.4012 362.0000,439.3366" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>AcCa(12:0)</title></polyline>
+<polyline points="67.0000,357.6529 165.3333,379.8867 263.6667,319.8468 362.0000,438.6136" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>AcCa(14:3)</title></polyline>
+<polyline points="67.0000,349.5253 165.3333,381.1950 263.6667,325.1538 362.0000,440.1259" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Carnitine C12:2-1</title></polyline>
+<polyline points="67.0000,382.7937 165.3333,341.7112 263.6667,330.9139 362.0000,440.5812" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Cer(t17:0_24:1)</title></polyline>
+<polyline points="67.0000,371.7677 165.3333,359.4052 263.6667,323.0427 362.0000,441.7844" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Cer(t17:0_25:1)</title></polyline>
+<polyline points="67.0000,368.3691 165.3333,386.1835 263.6667,310.6914 362.0000,430.7560" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>FA 10:0;O</title></polyline>
+<polyline points="67.0000,376.6187 165.3333,353.8105 263.6667,324.3024 362.0000,441.2684" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>FA 12:0</title></polyline>
+<polyline points="67.0000,360.6317 165.3333,364.0011 263.6667,327.1274 362.0000,444.2398" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>FA 14:1</title></polyline>
+<polyline points="67.0000,341.5109 165.3333,373.6784 263.6667,336.4820 362.0000,444.3287" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>FA 14:2</title></polyline>
+<polyline points="67.0000,390.6787 165.3333,350.8987 263.6667,319.8663 362.0000,434.5563" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>FA 16:2</title></polyline>
+<polyline points="67.0000,365.2402 165.3333,382.5972 263.6667,313.8372 362.0000,434.3254" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>FA 16:2; O</title></polyline>
+<polyline points="67.0000,383.7043 165.3333,339.1706 263.6667,332.7738 362.0000,440.3513" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>FA 20:5</title></polyline>
+<polyline points="67.0000,394.2029 165.3333,354.0571 263.6667,316.4093 362.0000,431.3307" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>FA 24:0</title></polyline>
+<polyline points="67.0000,376.3875 165.3333,349.4487 263.6667,327.8312 362.0000,442.3326" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>FA 26:0</title></polyline>
+<polyline points="67.0000,395.6700 165.3333,396.3743 263.6667,299.6844 362.0000,404.2713" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Fatty amide(16:0)</title></polyline>
+<polyline points="67.0000,397.9493 165.3333,397.0022 263.6667,299.5121 362.0000,401.5363" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Fatty amide(18:1)</title></polyline>
+<polyline points="67.0000,358.4132 165.3333,354.6495 263.6667,335.8734 362.0000,447.0639" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>PE(16:1e_20:5)</title></polyline>
+<polyline points="67.0000,340.0010 165.3333,387.9428 263.6667,329.9083 362.0000,438.1479" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Perillyl Acetate</title></polyline>
+<polyline points="67.0000,362.3667 165.3333,349.9777 263.6667,336.7765 362.0000,446.8791" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Val</title></polyline>
+<polyline points="67.0000,363.6990 165.3333,365.9426 263.6667,327.0664 362.0000,439.2920" fill="none" stroke="#111111" stroke-width="1.7" opacity="1" stroke-linejoin="round"><title>Fuzzy cluster centroid</title></polyline>
+<line x1="67.0000" y1="292.0000" x2="67.0000" y2="456.0000" stroke="#222222" stroke-width="1" />
+<line x1="67.0000" y1="456.0000" x2="362.0000" y2="456.0000" stroke="#222222" stroke-width="1" />
+<line x1="67.0000" y1="456.0000" x2="67.0000" y2="460.0000" stroke="#222222" stroke-width="1" />
+<text x="67.0000" y="474.0000" font-family="Arial" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal" >Ctrl</text>
+<line x1="165.3333" y1="456.0000" x2="165.3333" y2="460.0000" stroke="#222222" stroke-width="1" />
+<text x="165.3333" y="474.0000" font-family="Arial" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal" >HP</text>
+<line x1="263.6667" y1="456.0000" x2="263.6667" y2="460.0000" stroke="#222222" stroke-width="1" />
+<text x="263.6667" y="474.0000" font-family="Arial" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal" >AMI</text>
+<line x1="362.0000" y1="456.0000" x2="362.0000" y2="460.0000" stroke="#222222" stroke-width="1" />
+<text x="362.0000" y="474.0000" font-family="Arial" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal" >AAD</text>
+<text x="24.0000" y="374.0000" font-family="Arial" font-size="10" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 24.0000 374.0000)">Standardized group mean</text>
+</g>
+<g id="cluster_4">
+<text x="600.5000" y="273.0000" font-family="Arial" font-size="14" text-anchor="middle" fill="#111111" font-weight="normal" >Cluster 4 (n = 4)</text>
+<line x1="453.0000" y1="448.5455" x2="748.0000" y2="448.5455" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="449.0000" y1="448.5455" x2="453.0000" y2="448.5455" stroke="#222222" stroke-width="1" />
+<text x="445.0000" y="452.0455" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >-1.5</text>
+<line x1="453.0000" y1="423.6970" x2="748.0000" y2="423.6970" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="449.0000" y1="423.6970" x2="453.0000" y2="423.6970" stroke="#222222" stroke-width="1" />
+<text x="445.0000" y="427.1970" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >-1</text>
+<line x1="453.0000" y1="398.8485" x2="748.0000" y2="398.8485" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="449.0000" y1="398.8485" x2="453.0000" y2="398.8485" stroke="#222222" stroke-width="1" />
+<text x="445.0000" y="402.3485" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >-0.5</text>
+<line x1="453.0000" y1="374.0000" x2="748.0000" y2="374.0000" stroke="#BBBBBB" stroke-width="0.8" />
+<line x1="449.0000" y1="374.0000" x2="453.0000" y2="374.0000" stroke="#222222" stroke-width="1" />
+<text x="445.0000" y="377.5000" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >0</text>
+<line x1="453.0000" y1="349.1515" x2="748.0000" y2="349.1515" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="449.0000" y1="349.1515" x2="453.0000" y2="349.1515" stroke="#222222" stroke-width="1" />
+<text x="445.0000" y="352.6515" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >0.5</text>
+<line x1="453.0000" y1="324.3030" x2="748.0000" y2="324.3030" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="449.0000" y1="324.3030" x2="453.0000" y2="324.3030" stroke="#222222" stroke-width="1" />
+<text x="445.0000" y="327.8030" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >1</text>
+<line x1="453.0000" y1="299.4545" x2="748.0000" y2="299.4545" stroke="#EAEAEA" stroke-width="0.5" />
+<line x1="449.0000" y1="299.4545" x2="453.0000" y2="299.4545" stroke="#222222" stroke-width="1" />
+<text x="445.0000" y="302.9545" font-family="Arial" font-size="9" text-anchor="end" fill="#111111" font-weight="normal" >1.5</text>
+<polyline points="453.0000,392.8427 551.3333,403.8265 649.6667,399.5670 748.0000,299.7637" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>3S_2349_Tetrahydro_1h_pyrido_34b_indole_carboxylic_acid</title></polyline>
+<polyline points="453.0000,406.7322 551.3333,398.7373 649.6667,390.4021 748.0000,300.1284" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Dimethylarginine</title></polyline>
+<polyline points="453.0000,398.8793 551.3333,398.8237 649.6667,398.8425 748.0000,299.4546" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Leu-Leu</title></polyline>
+<polyline points="453.0000,407.1420 551.3333,397.8050 649.6667,390.9292 748.0000,300.1238" fill="none" stroke="#B73935" stroke-width="0.85" opacity="0.55" stroke-linejoin="round"><title>Leucylalanine</title></polyline>
+<polyline points="453.0000,401.9026 551.3333,399.1128 649.6667,393.9708 748.0000,301.0138" fill="none" stroke="#111111" stroke-width="1.7" opacity="1" stroke-linejoin="round"><title>Fuzzy cluster centroid</title></polyline>
+<line x1="453.0000" y1="292.0000" x2="453.0000" y2="456.0000" stroke="#222222" stroke-width="1" />
+<line x1="453.0000" y1="456.0000" x2="748.0000" y2="456.0000" stroke="#222222" stroke-width="1" />
+<line x1="453.0000" y1="456.0000" x2="453.0000" y2="460.0000" stroke="#222222" stroke-width="1" />
+<text x="453.0000" y="474.0000" font-family="Arial" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal" >Ctrl</text>
+<line x1="551.3333" y1="456.0000" x2="551.3333" y2="460.0000" stroke="#222222" stroke-width="1" />
+<text x="551.3333" y="474.0000" font-family="Arial" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal" >HP</text>
+<line x1="649.6667" y1="456.0000" x2="649.6667" y2="460.0000" stroke="#222222" stroke-width="1" />
+<text x="649.6667" y="474.0000" font-family="Arial" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal" >AMI</text>
+<line x1="748.0000" y1="456.0000" x2="748.0000" y2="460.0000" stroke="#222222" stroke-width="1" />
+<text x="748.0000" y="474.0000" font-family="Arial" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal" >AAD</text>
+<text x="410.0000" y="374.0000" font-family="Arial" font-size="10" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 410.0000 374.0000)">Standardized group mean</text>
+</g>
+<line x1="175.0000" y1="506.0000" x2="197.0000" y2="506.0000" stroke="#B73935" stroke-width="1.1" />
+<text x="203.0000" y="510.0000" font-family="Arial" font-size="10" text-anchor="start" fill="#111111" font-weight="normal" >Other candidates</text>
+<line x1="325.0000" y1="506.0000" x2="347.0000" y2="506.0000" stroke="#32754C" stroke-width="1.7" />
+<text x="353.0000" y="510.0000" font-family="Arial" font-size="10" text-anchor="start" fill="#111111" font-weight="normal" >LPE features</text>
+<line x1="460.0000" y1="506.0000" x2="482.0000" y2="506.0000" stroke="#111111" stroke-width="1.7" />
+<text x="488.0000" y="510.0000" font-family="Arial" font-size="10" text-anchor="start" fill="#111111" font-weight="normal" >Fuzzy centroid</text>
+</svg>
