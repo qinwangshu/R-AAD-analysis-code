@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="183mm" height="80.372mm" viewBox="0 0 1480 650">
+<title>Fig. 3b. Lipid species significantly lower in AAD than in both HP and AMI</title>
+<rect width="1480" height="650" fill="#FFFFFF"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<line x1="151" y1="40" x2="151" y2="498" stroke="#E4E9ED"/>
+<line x1="453.5" y1="40" x2="453.5" y2="498" stroke="#E4E9ED"/>
+<line x1="756" y1="40" x2="756" y2="498" stroke="#E4E9ED"/>
+<line x1="1058.5" y1="40" x2="1058.5" y2="498" stroke="#E4E9ED"/>
+<line x1="1361" y1="40" x2="1361" y2="498" stroke="#E4E9ED"/>
+<rect x="151" y="65" width="1037.14" height="35" fill="#246D8E"/>
+<rect x="151" y="141.6" width="847" height="35" fill="#246D8E"/>
+<rect x="151" y="218.2" width="248.205" height="35" fill="#246D8E"/>
+<rect x="151" y="294.8" width="41.0169" height="35" fill="#246D8E"/>
+<text x="129" y="94.5" font-size="33" text-anchor="end" fill="#202831">LPE</text>
+<text x="129" y="171.1" font-size="33" text-anchor="end" fill="#202831">LPC</text>
+<text x="129" y="247.7" font-size="33" text-anchor="end" fill="#202831">PE</text>
+<text x="129" y="324.3" font-size="33" text-anchor="end" fill="#202831">PC</text>
+<text x="129" y="400.9" font-size="33" text-anchor="end" fill="#202831">PI</text>
+<text x="129" y="477.5" font-size="33" text-anchor="end" fill="#202831">PG</text>
+<text x="1206.89" y="94.5" font-size="33" text-anchor="start" fill="#253644">6/7</text>
+<text x="1016.75" y="171.1" font-size="33" text-anchor="start" fill="#253644">7/10</text>
+<text x="417.955" y="247.7" font-size="33" text-anchor="start" fill="#253644">8/39</text>
+<text x="210.767" y="324.3" font-size="33" text-anchor="start" fill="#253644">2/59</text>
+<text x="169.75" y="400.9" font-size="33" text-anchor="start" fill="#253644">0/14</text>
+<text x="169.75" y="477.5" font-size="33" text-anchor="start" fill="#253644">0/2</text>
+<line x1="151" y1="498" x2="1361" y2="498" stroke="#8D9AA5"/>
+<line x1="151" y1="498" x2="151" y2="507" stroke="#8D9AA5"/>
+<line x1="453.5" y1="498" x2="453.5" y2="507" stroke="#8D9AA5"/>
+<line x1="756" y1="498" x2="756" y2="507" stroke="#8D9AA5"/>
+<line x1="1058.5" y1="498" x2="1058.5" y2="507" stroke="#8D9AA5"/>
+<line x1="1361" y1="498" x2="1361" y2="507" stroke="#8D9AA5"/>
+<text x="151" y="546" font-size="28" text-anchor="middle" fill="#485761">0%</text>
+<text x="453.5" y="546" font-size="28" text-anchor="middle" fill="#485761">25%</text>
+<text x="756" y="546" font-size="28" text-anchor="middle" fill="#485761">50%</text>
+<text x="1058.5" y="546" font-size="28" text-anchor="middle" fill="#485761">75%</text>
+<text x="1361" y="546" font-size="28" text-anchor="middle" fill="#485761">100%</text>
+<text x="786" y="606" font-size="30" text-anchor="middle" fill="#202831">Proportion of measured species</text>
+</g>
+</svg>
